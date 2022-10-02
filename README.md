@@ -56,6 +56,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Davenchy&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#452](https://github.com/dart-lang/ffigen/issues/452) in [dart-lang/ffigen](https://github.com/dart-lang/ffigen)
