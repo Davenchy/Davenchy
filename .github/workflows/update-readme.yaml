@@ -1,11 +1,21 @@
-name: Waka Readme Metrics
+name: Update Readme
 on:
   schedule:
     # runs at 12 am every day
     - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
-  update-readme:
+  recent-activity:
+    name: Update Readme with Recent Activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Update Recent Activity'
+  waka-metrics:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
