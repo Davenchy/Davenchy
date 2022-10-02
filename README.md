@@ -44,7 +44,6 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=xo_flutter_game)](https://github.com/Davenchy/xo_flutter_game)
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=bool_quizzes)](https://github.com/Davenchy/bool_quizzes)
 
-
 # 📊 GitHub Stats:
 
 <a href="https://github.com/Davenchy">
@@ -57,6 +56,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Davenchy&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
 
+# Recent Activity
+<!--START_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
