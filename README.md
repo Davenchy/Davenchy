@@ -58,6 +58,10 @@
 
 # Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#452](https://github.com/dart-lang/ffigen/issues/452) in [dart-lang/ffigen](https://github.com/dart-lang/ffigen)
+2. ❗️ Closed issue [#452](https://github.com/dart-lang/ffigen/issues/452) in [dart-lang/ffigen](https://github.com/dart-lang/ffigen)
+3. ❗️ Opened issue [#452](https://github.com/dart-lang/ffigen/issues/452) in [dart-lang/ffigen](https://github.com/dart-lang/ffigen)
+<!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
