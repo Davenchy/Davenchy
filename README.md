@@ -57,6 +57,42 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-85%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 82 Contributions in the Year 2022
+ > 
+> 📦 93.2 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 44 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I Mostly Code in Dart** 
+
+```text
+Dart                     20 repos            █████████████░░░░░░░░░░░░   54.05% 
+JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   27.03% 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Davenchy/Davenchy/main/charts/bar_graph.png) 
+
+
+ Last Updated on 02/10/2022 18:59:01 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
