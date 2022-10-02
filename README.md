@@ -1,4 +1,4 @@
-<p align="center"><img alt="Hello My Friend!" src="https://readme-typing-svg.demolab.com?width=200&font=Fira+Code&pause=1000&lines=Hello+My+Friend!" /></p>
+<p align="center"><img alt="Hello My Friend!" src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&pause=1000&lines=Hello+My+Friend!" /></p>
 <h1 align="center">Hi 👋, I'm Davenchy</h1>
 <h3 align="center">A passionate flutter developer from Egypt</h3>
 
