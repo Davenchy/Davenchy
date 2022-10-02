@@ -39,8 +39,10 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=smart_controller)](https://github.com/Davenchy/smart_controller)
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=stop_watch_app)](https://github.com/Davenchy/stop_watch_app)
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=weather_app)](https://github.com/Davenchy/weather_app)
+[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=news_app)](https://github.com/Davenchy/news_app)
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=rock_paper_scissors)](https://github.com/Davenchy/rock_paper_scissors)
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=xo_flutter_game)](https://github.com/Davenchy/xo_flutter_game)
+[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=bool_quizzes)](https://github.com/Davenchy/bool_quizzes)
 
 
 # 📊 GitHub Stats:
