@@ -58,7 +58,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -105,16 +105,20 @@ Sunday       25 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-INI                      0 secs              █████████████████████████   100.0%
+C++                      55 mins             █████████████████░░░░░░░░   71.25% 
+Dart                     21 mins             ███████░░░░░░░░░░░░░░░░░░   28.17% 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45% 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+VS Code                  1 hr 17 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-torrent_client           0 secs              █████████████████████████   100.0%
+demo                     1 hr 17 mins        █████████████████████████   99.86% 
+torrent_client           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
+Linux                    1 hr 17 mins        █████████████████████████   100.0%
 
 ```
 
@@ -135,7 +139,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Davenchy/Davenchy/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/10/2022 01:20:37 UTC
+ Last Updated on 05/10/2022 01:18:26 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
