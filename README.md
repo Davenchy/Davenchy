@@ -68,7 +68,7 @@
 
 > 🏆 86 Contributions in the Year 2022
  > 
-> 📦 93.3 kB Used in GitHub's Storage 
+> 📦 93.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -105,18 +105,16 @@ Sunday       25 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-C++                      55 mins             █████████████████░░░░░░░░   71.34% 
-Dart                     21 mins             ███████░░░░░░░░░░░░░░░░░░   28.21% 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-demo                     1 hr 17 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 17 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -137,7 +135,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Davenchy/Davenchy/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/10/2022 01:07:59 UTC
+ Last Updated on 12/10/2022 01:22:18 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
