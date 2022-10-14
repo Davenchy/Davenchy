@@ -140,9 +140,9 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#452](https://github.com/dart-lang/ffigen/issues/452) in [dart-lang/ffigen](https://github.com/dart-lang/ffigen)
-2. ❗️ Closed issue [#452](https://github.com/dart-lang/ffigen/issues/452) in [dart-lang/ffigen](https://github.com/dart-lang/ffigen)
-3. ❗️ Opened issue [#452](https://github.com/dart-lang/ffigen/issues/452) in [dart-lang/ffigen](https://github.com/dart-lang/ffigen)
+1. 🎉 Merged PR [#1](https://github.com/Davenchy/animation_model/pull/1) in [Davenchy/animation_model](https://github.com/Davenchy/animation_model)
+2. 💪 Opened PR [#1](https://github.com/Davenchy/animation_model/pull/1) in [Davenchy/animation_model](https://github.com/Davenchy/animation_model)
+3. 🗣 Commented on [#452](https://github.com/dart-lang/ffigen/issues/452) in [dart-lang/ffigen](https://github.com/dart-lang/ffigen)
 <!--END_SECTION:activity-->
 
 ## ✍️ Random Dev Quote
