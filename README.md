@@ -105,17 +105,16 @@ Sunday       25 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Dart                     2 hrs 54 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 54 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-animation_model          2 hrs 52 mins       ████████████████████████░   98.69% 
-3.3.4                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 54 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -136,7 +135,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Davenchy/Davenchy/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/10/2022 01:25:06 UTC
+ Last Updated on 25/10/2022 01:22:23 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
