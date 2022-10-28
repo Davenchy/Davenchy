@@ -58,7 +58,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -105,16 +105,18 @@ Sunday       25 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 26 mins       ████████████████████████░   95.81% 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 38 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+assistant                4 hrs 38 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 38 mins       █████████████████████████   100.0%
 
 ```
 
@@ -135,7 +137,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Davenchy/Davenchy/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/10/2022 01:08:15 UTC
+ Last Updated on 28/10/2022 01:11:38 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
