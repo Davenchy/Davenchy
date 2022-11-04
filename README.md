@@ -147,9 +147,9 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/Daegalus/dart-otp/issues/42) in [Daegalus/dart-otp](https://github.com/Daegalus/dart-otp)
-2. 🎉 Merged PR [#1](https://github.com/Davenchy/animation_model/pull/1) in [Davenchy/animation_model](https://github.com/Davenchy/animation_model)
-3. 💪 Opened PR [#1](https://github.com/Davenchy/animation_model/pull/1) in [Davenchy/animation_model](https://github.com/Davenchy/animation_model)
+1. ❗️ Opened issue [#12](https://github.com/MicahCarrick/desktop-entry-editor/issues/12) in [MicahCarrick/desktop-entry-editor](https://github.com/MicahCarrick/desktop-entry-editor)
+2. ❗️ Opened issue [#42](https://github.com/Daegalus/dart-otp/issues/42) in [Daegalus/dart-otp](https://github.com/Daegalus/dart-otp)
+3. 🎉 Merged PR [#1](https://github.com/Davenchy/animation_model/pull/1) in [Davenchy/animation_model](https://github.com/Davenchy/animation_model)
 <!--END_SECTION:activity-->
 
 ## ✍️ Random Dev Quote
