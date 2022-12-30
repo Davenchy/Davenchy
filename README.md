@@ -148,9 +148,9 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#42](https://github.com/Daegalus/dart-otp/issues/42) in [Daegalus/dart-otp](https://github.com/Daegalus/dart-otp)
-2. 🗣 Commented on [#42](https://github.com/Daegalus/dart-otp/issues/42) in [Daegalus/dart-otp](https://github.com/Daegalus/dart-otp)
-3. 🗣 Commented on [#42](https://github.com/Daegalus/dart-otp/issues/42) in [Daegalus/dart-otp](https://github.com/Daegalus/dart-otp)
+1. ❗️ Opened issue [#119](https://github.com/py-bson/bson/issues/119) in [py-bson/bson](https://github.com/py-bson/bson)
+2. ❗️ Opened issue [#10](https://github.com/seprich/py-bson-rpc/issues/10) in [seprich/py-bson-rpc](https://github.com/seprich/py-bson-rpc)
+3. ❗️ Closed issue [#42](https://github.com/Daegalus/dart-otp/issues/42) in [Daegalus/dart-otp](https://github.com/Daegalus/dart-otp)
 <!--END_SECTION:activity-->
 
 ## ✍️ Random Dev Quote
