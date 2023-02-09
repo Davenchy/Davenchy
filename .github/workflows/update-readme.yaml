@@ -2,7 +2,7 @@ name: Update Readme
 on:
   schedule:
     # runs at 12 am every day
-    - cron: '0 0 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 jobs:
   recent-activity:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: BrandgrandRealMe/github-activity-readme@v0.3.8
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
