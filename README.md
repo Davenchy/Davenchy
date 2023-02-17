@@ -198,8 +198,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 `[12/29 06:10]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AhmedLSayed9/deliverzler](https://github.com/AhmedLSayed9/deliverzler)  
 `[11/17 10:18]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/8-git-commands-you-should-know-3087083](https://github.com/Davenchy/8-git-commands-you-should-know-3087083)  
 `[11/17 09:45]` <img alt="🍴" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [LinkedInLearning/8-git-commands-you-should-know-3087083](https://github.com/LinkedInLearning/8-git-commands-you-should-know-3087083) to [Davenchy/8-git-commands-you-should-know-3087083](https://github.com/Davenchy/8-git-commands-you-should-know-3087083)  
-`[11/16 14:04]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#42`](https://github.com//Daegalus/dart-otp/issues/42 'TOTP generates invalid codes') in [Daegalus/dart-otp](https://github.com/Daegalus/dart-otp)  
-`[11/16 14:04]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#42`](https://github.com//Daegalus/dart-otp/issues/42 'TOTP generates invalid codes') in [Daegalus/dart-otp](https://github.com/Daegalus/dart-otp)  
 
 </details>
 <!--END_SECTION:activity-->
