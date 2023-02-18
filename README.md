@@ -151,7 +151,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-`[02/18 05:06]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[02/18 06:09]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[02/17 19:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
 `[02/17 19:05]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[02/17 18:42]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
@@ -207,7 +207,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 `[01/28 00:54]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `32` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[12/29 22:24]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#119`](https://github.com//py-bson/bson/issues/119 'Support top level arrays') in [py-bson/bson](https://github.com/py-bson/bson)  
 `[12/29 22:23]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#10`](https://github.com//seprich/py-bson-rpc/issues/10 'Support JSON-RPC Batches') in [seprich/py-bson-rpc](https://github.com/seprich/py-bson-rpc)  
-`[12/29 06:10]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AhmedLSayed9/deliverzler](https://github.com/AhmedLSayed9/deliverzler)  
 
 </details>
 <!--END_SECTION:activity-->
