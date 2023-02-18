@@ -151,7 +151,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-`[02/18 07:06]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[02/18 08:09]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `22` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[02/17 19:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
 `[02/17 19:05]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[02/17 18:42]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
@@ -205,8 +205,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 `[01/28 19:57]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Davenchy/alx-pre_course/tree/master) in [Davenchy/alx-pre_course](https://github.com/Davenchy/alx-pre_course)  
 `[01/28 19:23]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/alx-pre_course](https://github.com/Davenchy/alx-pre_course)  
 `[01/28 00:54]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `32` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[12/29 22:24]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#119`](https://github.com//py-bson/bson/issues/119 'Support top level arrays') in [py-bson/bson](https://github.com/py-bson/bson)  
-`[12/29 22:23]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#10`](https://github.com//seprich/py-bson-rpc/issues/10 'Support JSON-RPC Batches') in [seprich/py-bson-rpc](https://github.com/seprich/py-bson-rpc)  
 
 </details>
 <!--END_SECTION:activity-->
