@@ -149,7 +149,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-`[02/19 07:06]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `66` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[02/19 08:09]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `68` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[02/17 19:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
 `[02/17 19:05]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[02/17 18:42]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
@@ -196,7 +196,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 `[02/05 00:57]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[02/02 08:08]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bushblade/nvim](https://github.com/bushblade/nvim)  
 `[02/02 03:27]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/alx-pre_course](https://github.com/Davenchy/alx-pre_course)  
-`[02/01 00:58]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[02/01 00:58]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 
 </details>
 <!--END_SECTION:activity-->
