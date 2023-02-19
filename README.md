@@ -149,7 +149,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-`[02/19 16:08]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `84` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[02/19 17:05]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `86` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[02/17 19:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
 `[02/17 19:05]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[02/17 18:42]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
@@ -189,8 +189,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 `[02/05 12:29]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/AstroNvimConfig](https://github.com/Davenchy/AstroNvimConfig)  
 `[02/05 10:43]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/AstroNvimConfig/tree/main) in [Davenchy/AstroNvimConfig](https://github.com/Davenchy/AstroNvimConfig)  
 `[02/05 10:39]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/AstroNvimConfig](https://github.com/Davenchy/AstroNvimConfig)  
-`[02/05 10:22]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Davenchy/anmol098](https://github.com/Davenchy/anmol098)  
-`[02/05 10:22]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Davenchy/anmol098](https://github.com/Davenchy/anmol098)  
 
 </details>
 <!--END_SECTION:activity-->
