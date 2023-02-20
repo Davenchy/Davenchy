@@ -59,7 +59,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-95-blue)
 
@@ -144,7 +144,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Davenchy/Davenchy/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/02/2023 07:08:18 UTC
+ Last Updated on 20/02/2023 08:11:05 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
