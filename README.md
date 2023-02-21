@@ -59,17 +59,17 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-95-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-371%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-372%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 201 Contributions in the Year 2023
+> 🏆 208 Contributions in the Year 2023
  > 
-> 📦 93.9 kB Used in GitHub's Storage 
+> 📦 94.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -80,22 +80,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning       51 commits       █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-🌆 Daytime       62 commits       ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-🌃 Evening       87 commits       ████████░░░░░░░░░░░░░░░░░   34.94 % 
-🌙 Night         49 commits       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+🌞 Morning       51 commits       █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+🌆 Daytime       69 commits       ██████░░░░░░░░░░░░░░░░░░░   26.95 % 
+🌃 Evening       87 commits       ████████░░░░░░░░░░░░░░░░░   33.98 % 
+🌙 Night         49 commits       ████░░░░░░░░░░░░░░░░░░░░░   19.14 % 
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday           7 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Tuesday         92 commits       █████████░░░░░░░░░░░░░░░░   36.95 % 
-Wednesday       23 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Thursday        63 commits       ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-Friday          28 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Saturday        10 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Sunday          26 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Monday           7 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Tuesday         99 commits       █████████░░░░░░░░░░░░░░░░   38.67 % 
+Wednesday       23 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Thursday        63 commits       ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+Friday          28 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Saturday        10 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Sunday          26 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
 
 ```
 
@@ -143,7 +143,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Davenchy/Davenchy/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/02/2023 11:06:21 UTC
+ Last Updated on 21/02/2023 12:13:15 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
