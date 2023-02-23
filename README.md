@@ -59,7 +59,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
@@ -141,7 +141,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davenchy/Davenchy/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2023 19:05:13 UTC
+ Last Updated on 23/02/2023 20:07:51 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
