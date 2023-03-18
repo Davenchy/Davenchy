@@ -59,9 +59,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -104,20 +104,19 @@ Sunday                   1306 commits        ███████░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-C                        8 hrs 48 mins       ███████████████████████░░   93.99 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+C                        8 hrs 55 mins       █████████████████████████   98.71 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Vim                      9 hrs 22 mins       █████████████████████████   100.00 % 
+Vim                      9 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-alx-low_level_programming9 hrs 21 mins       █████████████████████████   99.97 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+alx-low_level_programming9 hrs 1 min         █████████████████████████   99.96 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Linux                    9 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -137,7 +136,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davenchy/Davenchy/main/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2023 01:25:41 UTC
+ Last Updated on 18/03/2023 01:24:59 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
