@@ -59,7 +59,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -104,19 +104,21 @@ Sunday                   1306 commits        ███████░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-C                        8 hrs 55 mins       █████████████████████████   98.71 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+C                        8 hrs 14 mins       ██████████████████████░░░   89.51 % 
+Python                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Vim                      9 hrs 2 mins        █████████████████████████   100.00 % 
+Vim                      9 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-alx-low_level_programming9 hrs 1 min         █████████████████████████   99.96 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+alx-low_level_programming8 hrs 12 mins       ██████████████████████░░░   89.14 % 
+Unknown Project          1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
 
 💻 Operating System: 
-Linux                    9 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    9 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -136,7 +138,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davenchy/Davenchy/main/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2023 01:24:59 UTC
+ Last Updated on 19/03/2023 01:40:55 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
