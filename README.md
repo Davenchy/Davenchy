@@ -59,7 +59,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -67,7 +67,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 94.5 kB Used in GitHub's Storage 
+> 📦 94.4 kB Used in GitHub's Storage 
  > 
 > 🏆 423 Contributions in the Year 2023
  > 
@@ -104,21 +104,21 @@ Sunday                   1306 commits        ███████░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-C                        7 hrs 46 mins       █████████████████████░░░░   85.55 % 
-Python                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+C                        5 hrs 6 mins        ████████████████████░░░░░   79.53 % 
+Python                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🔥 Editors: 
-Vim                      9 hrs 5 mins        █████████████████████████   100.00 % 
+Vim                      6 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-alx-low_level_programming8 hrs 5 mins        ██████████████████████░░░   88.88 % 
-Unknown Project          1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+alx-low_level_programming5 hrs 24 mins       █████████████████████░░░░   84.25 % 
+Unknown Project          1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
 
 💻 Operating System: 
-Linux                    9 hrs 5 mins        █████████████████████████   100.00 % 
+Linux                    6 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -138,7 +138,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davenchy/Davenchy/main/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2023 01:21:24 UTC
+ Last Updated on 22/03/2023 01:22:13 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
