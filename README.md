@@ -143,6 +143,23 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[03/25 20:58]` <img alt="🎉" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//M1-Elmasry/printf/pull/3 'fix: crashing if format is null') in [M1-Elmasry/printf](https://github.com/M1-Elmasry/printf)  
+`[03/25 20:58]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [M1-Elmasry/printf](https://github.com/M1-Elmasry/printf)  
+`[03/25 20:57]` <img alt="✅" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//M1-Elmasry/printf/pull/3 'fix: crashing if format is null') in [M1-Elmasry/printf](https://github.com/M1-Elmasry/printf)  
+`[03/25 20:55]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/printf](https://github.com/Davenchy/printf)  
+`[03/25 20:44]` <img alt="🎉" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//M1-Elmasry/printf/pull/2 'apply betty style') in [M1-Elmasry/printf](https://github.com/M1-Elmasry/printf)  
+`[03/25 20:44]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [M1-Elmasry/printf](https://github.com/M1-Elmasry/printf)  
+`[03/25 20:44]` <img alt="✅" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//M1-Elmasry/printf/pull/2 'apply betty style') in [M1-Elmasry/printf](https://github.com/M1-Elmasry/printf)  
+`[03/25 20:42]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/printf](https://github.com/Davenchy/printf)  
+`[03/25 20:28]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [M1-Elmasry/printf](https://github.com/M1-Elmasry/printf)  
+`[03/25 20:28]` <img alt="🎉" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//M1-Elmasry/printf/pull/1 'Create base code') in [M1-Elmasry/printf](https://github.com/M1-Elmasry/printf)  
+
+<details><summary>Show More</summary>
+
+`[03/25 20:28]` <img alt="✅" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//M1-Elmasry/printf/pull/1 'Create base code') in [M1-Elmasry/printf](https://github.com/M1-Elmasry/printf)  
+`[03/25 20:22]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Davenchy/printf](https://github.com/Davenchy/printf)  
+`[03/25 20:21]` <img alt="🍴" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [M1-Elmasry/printf](https://github.com/M1-Elmasry/printf) to [Davenchy/printf](https://github.com/Davenchy/printf)  
+`[03/25 01:21]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[03/24 17:45]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/printf](https://github.com/Davenchy/printf)  
 `[03/24 01:23]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[03/23 20:27]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
@@ -153,9 +170,6 @@ Lua                      1 repo              █░░░░░░░░░░�
 `[03/20 16:10]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `33` commits in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
 `[03/20 01:36]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[03/17 00:46]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
-
-<details><summary>Show More</summary>
-
 `[03/16 01:27]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[03/14 20:22]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
 `[03/14 12:56]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
@@ -192,9 +206,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 `[02/23 17:04]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
 `[02/23 16:09]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[02/23 16:03]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
-`[02/23 15:07]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `46` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[02/22 13:22]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mtbar131/btclient](https://github.com/mtbar131/btclient)  
-`[02/22 13:19]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
+`[02/23 15:07]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 
 </details>
 <!--END_SECTION:activity-->
