@@ -3,7 +3,7 @@
 <h3 align="center">A passionate flutter developer from Egypt</h3>
 
 <a href="https://app.daily.dev/Davenchy">
- <img src="devcard.svg" width="300" alt="Fadi Assad's Dev Card"/></a>
+ <img src="devcard.svg" align="right" width="300" alt="Fadi Assad's Dev Card"/></a>
 
 - 🌱 I’m currently learning **Mobile Development and Embedded Systems**
 
