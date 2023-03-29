@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Davenchy</h1>
 <h3 align="center">A passionate flutter developer from Egypt</h3>
 
+<a href="https://app.daily.dev/Davenchy">
+ <img src="devcard.svg" width="300" alt="Fadi Assad's Dev Card"/></a>
+
 - 🌱 I’m currently learning **Mobile Development and Embedded Systems**
 
 - 💬 Ask me about **Flutter and Dart**
@@ -11,7 +14,7 @@
 - ⚡ Fun fact **I think I like to know how things work under the hood**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://codepen.io/davenchy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="davenchy" height="30" width="40" /></a>
 <a href="https://dev.to/fadi_davenchy" target="blank"><img align="center" src="https://www.google.com/s2/favicons?domain=dev.to&sz=128" alt="fadi_davenchy" height="30" width="40" /></a>
 <a href="https://twitter.com/fadi_davenchy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fadi_davenchy" height="30" width="40" /></a>
