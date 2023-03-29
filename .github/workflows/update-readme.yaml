@@ -8,10 +8,12 @@ on:
     - cron: '0 0 * * *'
 jobs:
   devcard:
-    name: DevCard
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: dailydotdev/action-devcard@2.0.4
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.1.0
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
   recent-activity:
