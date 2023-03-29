@@ -52,14 +52,13 @@
 ## 📊 GitHub Stats:
 
 <a href="https://github.com/Davenchy">
-<img align="center" alt="Davenchy's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=davenchy&theme=radical&hide_border=true" />
-</a>
+![](https://github-readme-stats.vercel.app/api/wakatime?username=davenchy&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=10)<br/>
 
-
-![](https://github-readme-stats.vercel.app/api?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Davenchy&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%201%20min-blue)
