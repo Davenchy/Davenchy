@@ -151,7 +151,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-`[04/22 01:21]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[04/23 01:36]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[04/20 12:53]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/simple_shell_parser_c](https://github.com/Davenchy/simple_shell_parser_c)  
 `[04/20 06:16]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yonasleykun27/simple_shell](https://github.com/yonasleykun27/simple_shell)  
 `[04/20 06:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/simple_shell_parser_c](https://github.com/Davenchy/simple_shell_parser_c)  
@@ -231,7 +231,6 @@ Lua                      1 repo              ░░░░░░░░░░░�
 `[03/14 12:56]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[03/13 21:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
 `[03/12 01:40]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[03/10 22:49]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
 
 </details>
 <!--END_SECTION:activity-->
