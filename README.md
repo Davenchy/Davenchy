@@ -153,6 +153,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[05/01 01:25]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/01 00:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/garbage_free_c](https://github.com/Davenchy/garbage_free_c)  
 `[04/30 01:26]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[04/29 14:30]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [Ammar-Khaled/simple_shell](https://github.com/Ammar-Khaled/simple_shell)  
@@ -162,10 +163,10 @@ Lua                      1 repo              ░░░░░░░░░░░�
 `[04/28 17:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Ammar-Khaled/simple_shell](https://github.com/Ammar-Khaled/simple_shell)  
 `[04/28 15:19]` <img alt="🏷" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`V2`](https://github.com/Davenchy/garbage_free_c/releases/tag/V2) in [Davenchy/garbage_free_c](https://github.com/Davenchy/garbage_free_c)  
 `[04/28 15:18]` <img alt="🏷" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`V1`](https://github.com/Davenchy/garbage_free_c/releases/tag/V1) in [Davenchy/garbage_free_c](https://github.com/Davenchy/garbage_free_c)  
-`[04/28 15:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/garbage_free_c](https://github.com/Davenchy/garbage_free_c)  
 
 <details><summary>Show More</summary>
 
+`[04/28 15:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/garbage_free_c](https://github.com/Davenchy/garbage_free_c)  
 `[04/28 01:22]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[04/28 00:26]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/garbage_free_c/tree/main) in [Davenchy/garbage_free_c](https://github.com/Davenchy/garbage_free_c)  
 `[04/28 00:26]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/garbage_free_c](https://github.com/Davenchy/garbage_free_c)  
@@ -240,7 +241,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 `[03/24 01:23]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[03/23 20:27]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
 `[03/23 01:22]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[03/22 21:31]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
+`[03/22 21:31]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
 
 </details>
 <!--END_SECTION:activity-->
