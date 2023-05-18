@@ -152,6 +152,8 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[05/17 22:35]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
+`[05/17 01:23]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/16 03:39]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 `[05/16 01:22]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/14 05:56]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
@@ -160,11 +162,11 @@ Lua                      1 repo              ░░░░░░░░░░░�
 `[05/13 02:52]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/simple_shell_tests](https://github.com/Davenchy/simple_shell_tests)  
 `[05/13 01:19]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/13 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/simple_shell_tests](https://github.com/Davenchy/simple_shell_tests)  
-`[05/13 00:05]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/simple_shell_tests/tree/main) in [Davenchy/simple_shell_tests](https://github.com/Davenchy/simple_shell_tests)  
-`[05/13 00:05]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/simple_shell_tests](https://github.com/Davenchy/simple_shell_tests)  
 
 <details><summary>Show More</summary>
 
+`[05/13 00:05]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/simple_shell_tests/tree/main) in [Davenchy/simple_shell_tests](https://github.com/Davenchy/simple_shell_tests)  
+`[05/13 00:05]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/simple_shell_tests](https://github.com/Davenchy/simple_shell_tests)  
 `[05/12 01:21]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/11 22:03]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 `[05/11 14:57]` <img alt="🍴" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Ammar-Khaled/simple_shell](https://github.com/Ammar-Khaled/simple_shell) to [Davenchy/simple_shell](https://github.com/Davenchy/simple_shell)  
@@ -219,7 +221,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 `[04/06 01:18]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[04/05 14:31]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
 `[04/05 01:09]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[04/04 17:50]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
+`[04/04 17:50]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
 
 </details>
 <!--END_SECTION:activity-->
