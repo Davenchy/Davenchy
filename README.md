@@ -152,6 +152,8 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[06/06 21:46]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `27` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
+`[06/06 01:46]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/05 17:55]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 `[06/05 01:45]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/03 15:30]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/android_device_Infinix_Infinix-Hot9-X655C](https://github.com/Davenchy/android_device_Infinix_Infinix-Hot9-X655C)  
@@ -160,11 +162,11 @@ Lua                      1 repo              ░░░░░░░░░░░�
 `[06/02 15:14]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/android_device_Infinix_Infinix-Hot9-X655C/tree/main) in [Davenchy/android_device_Infinix_Infinix-Hot9-X655C](https://github.com/Davenchy/android_device_Infinix_Infinix-Hot9-X655C)  
 `[06/02 15:14]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/android_device_Infinix_Infinix-Hot9-X655C](https://github.com/Davenchy/android_device_Infinix_Infinix-Hot9-X655C)  
 `[06/02 14:59]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twrpdtgen/android_device_infinix_Infinix-X655C](https://github.com/twrpdtgen/android_device_infinix_Infinix-X655C)  
-`[06/02 14:59]` <img alt="🍴" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [twrpdtgen/android_device_infinix_Infinix-X655C](https://github.com/twrpdtgen/android_device_infinix_Infinix-X655C) to [Davenchy/android_device_infinix_Infinix-X655C](https://github.com/Davenchy/android_device_infinix_Infinix-X655C)  
-`[06/02 01:46]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 
 <details><summary>Show More</summary>
 
+`[06/02 14:59]` <img alt="🍴" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [twrpdtgen/android_device_infinix_Infinix-X655C](https://github.com/twrpdtgen/android_device_infinix_Infinix-X655C) to [Davenchy/android_device_infinix_Infinix-X655C](https://github.com/Davenchy/android_device_infinix_Infinix-X655C)  
+`[06/02 01:46]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/31 21:06]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 `[05/31 18:52]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/RSA-Factoring-Challenge](https://github.com/Davenchy/RSA-Factoring-Challenge)  
 `[05/31 01:43]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
@@ -211,7 +213,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 `[05/11 14:56]` <img alt="🍴" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [M1-Elmasry/printf](https://github.com/M1-Elmasry/printf) to [Davenchy/printf](https://github.com/Davenchy/printf)  
 `[05/11 14:54]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`updates`](https://github.com/Davenchy/simple_shell_parser_c/tree/updates) in [Davenchy/simple_shell_parser_c](https://github.com/Davenchy/simple_shell_parser_c)  
 `[05/11 01:21]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[05/09 22:40]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `34` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
+`[05/09 22:40]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 
 </details>
 <!--END_SECTION:activity-->
