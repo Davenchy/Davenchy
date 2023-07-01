@@ -153,6 +153,8 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[07/01 01:52]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [Davenchy/alx-system_engineering-devops](https://github.com/Davenchy/alx-system_engineering-devops)  
+`[06/30 01:44]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/30 01:23]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [Davenchy/alx-system_engineering-devops](https://github.com/Davenchy/alx-system_engineering-devops)  
 `[06/29 08:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
 `[06/29 01:45]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
@@ -161,11 +163,11 @@ Lua                      1 repo              ░░░░░░░░░░░�
 `[06/28 01:50]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/27 04:48]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Davenchy/sorting_algorithms](https://github.com/Davenchy/sorting_algorithms)  
 `[06/27 01:51]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[06/27 01:24]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/sorting_algorithms](https://github.com/Davenchy/sorting_algorithms)  
-`[06/26 01:53]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 
 <details><summary>Show More</summary>
 
+`[06/27 01:24]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/sorting_algorithms](https://github.com/Davenchy/sorting_algorithms)  
+`[06/26 01:53]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/26 01:07]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-system_engineering-devops](https://github.com/Davenchy/alx-system_engineering-devops)  
 `[06/25 09:49]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Davenchy/sorting_algorithms](https://github.com/Davenchy/sorting_algorithms)  
 `[06/25 02:00]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
@@ -255,8 +257,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 `[05/31 01:43]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/30 23:06]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 `[05/30 01:27]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[05/29 22:07]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
-`[05/29 01:26]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[05/29 22:07]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 
 </details>
 <!--END_SECTION:activity-->
