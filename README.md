@@ -154,19 +154,24 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[07/05 23:04]` <img alt="🍴" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [M1-Elmasry/Simple_Todo_App](https://github.com/M1-Elmasry/Simple_Todo_App) to [Davenchy/Simple_Todo_App_MODIFICATION_FORK](https://github.com/Davenchy/Simple_Todo_App_MODIFICATION_FORK)  
+`[07/05 12:41]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [M1-Elmasry/Simple_Todo_App](https://github.com/M1-Elmasry/Simple_Todo_App)  
+`[07/05 02:56]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/astronvim-config](https://github.com/Davenchy/astronvim-config)  
+`[07/05 02:01]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
+`[07/05 01:48]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/05 01:43]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 `[07/04 23:28]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/astronvim-config](https://github.com/Davenchy/astronvim-config)  
 `[07/04 23:08]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/astronvim-config/tree/main) in [Davenchy/astronvim-config](https://github.com/Davenchy/astronvim-config)  
 `[07/04 23:08]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/astronvim-config](https://github.com/Davenchy/astronvim-config)  
 `[07/04 17:51]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [Davenchy/alx-system_engineering-devops](https://github.com/Davenchy/alx-system_engineering-devops)  
+
+<details><summary>Show More</summary>
+
 `[07/04 01:50]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/03 16:54]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#115`](https://github.com//Davenchy/live-torrent/issues/115 'Docker image for live-torrent v4') in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
 `[07/03 16:54]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#115`](https://github.com//Davenchy/live-torrent/issues/115 'Docker image for live-torrent v4') in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
 `[07/03 16:51]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
 `[07/03 01:49]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-
-<details><summary>Show More</summary>
-
 `[07/01 07:05]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
 `[07/01 04:07]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#116`](https://github.com//Davenchy/live-torrent/issues/116 'Torrent providers with code 500.') in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
 `[07/01 04:07]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#116`](https://github.com//Davenchy/live-torrent/issues/116 'Torrent providers with code 500.') in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
@@ -262,10 +267,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 `[06/06 21:46]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `27` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 `[06/06 01:46]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/05 17:55]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
-`[06/05 01:45]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[06/03 15:30]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/android_device_Infinix_Infinix-Hot9-X655C](https://github.com/Davenchy/android_device_Infinix_Infinix-Hot9-X655C)  
-`[06/03 01:42]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[06/03 00:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/android_device_Infinix_Infinix-Hot9-X655C](https://github.com/Davenchy/android_device_Infinix_Infinix-Hot9-X655C)  
+`[06/05 01:45]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 
 </details>
 <!--END_SECTION:activity-->
