@@ -55,7 +55,7 @@
  
 <img  height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=davenchy&theme=radical&hide_border=true"/>
  
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=10&card_width=500"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=6&card_width=500"/>
  <br/>
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" />
