@@ -1,13 +1,13 @@
 <p align="center"><img alt="Hello My Friend!" src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&pause=1000&lines=Hello+My+Friend!" /></p>
 <h1 align="center">Hi 👋, I'm Davenchy</h1>
-<h3 align="center">A passionate flutter developer from Egypt</h3>
+<h3 align="center">A passionate future software engineer from Egypt</h3>
 
 <a href="https://app.daily.dev/Davenchy">
  <img src="devcard.svg" align="right" width="300" alt="Fadi Assad's Dev Card"/></a>
 
-- 🌱 I’m currently learning **Mobile Development and Embedded Systems**
+- 🌱 I’m currently learning **Software Engineering @ALX_Africa**
 
-- 💬 Ask me about **Flutter and Dart**
+- 💬 Ask me about **C, Python, Javascript, Dart**
 
 - 📫 How to reach me **firon1222@gmail.com**
 
