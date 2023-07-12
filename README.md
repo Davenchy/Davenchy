@@ -154,6 +154,8 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[07/12 01:45]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Ammar-Khaled/AirBnB_clone](https://github.com/Ammar-Khaled/AirBnB_clone)  
+`[07/11 01:41]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/10 20:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Ammar-Khaled/AirBnB_clone](https://github.com/Ammar-Khaled/AirBnB_clone)  
 `[07/10 01:50]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/09 07:05]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles)  
@@ -162,11 +164,11 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 `[07/08 13:25]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)  
 `[07/08 13:25]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)  
 `[07/08 01:48]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[07/07 17:12]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-system_engineering-devops](https://github.com/Davenchy/alx-system_engineering-devops)  
-`[07/06 22:12]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
 
 <details><summary>Show More</summary>
 
+`[07/07 17:12]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-system_engineering-devops](https://github.com/Davenchy/alx-system_engineering-devops)  
+`[07/06 22:12]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
 `[07/06 21:01]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Davenchy/alx-system_engineering-devops](https://github.com/Davenchy/alx-system_engineering-devops)  
 `[07/06 01:59]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Simple_Todo_App_MODIFICATION_FORK](https://github.com/Davenchy/Simple_Todo_App_MODIFICATION_FORK)  
 `[07/06 01:51]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
@@ -277,7 +279,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 `[06/09 01:46]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/07 23:11]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 `[06/07 01:48]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[06/06 21:46]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
+`[06/06 21:46]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 
 </details>
 <!--END_SECTION:activity-->
