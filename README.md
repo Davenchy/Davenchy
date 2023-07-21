@@ -151,6 +151,8 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[07/20 02:48]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
+`[07/20 01:25]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/20 01:20]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 `[07/19 02:49]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/19 01:51]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `30` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
@@ -159,11 +161,11 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 `[07/16 02:01]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/15 16:02]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Ammar-Khaled/AirBnB_clone](https://github.com/Ammar-Khaled/AirBnB_clone)  
 `[07/15 01:50]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[07/14 22:50]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Ammar-Khaled/AirBnB_clone](https://github.com/Ammar-Khaled/AirBnB_clone)  
-`[07/14 01:52]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 
 <details><summary>Show More</summary>
 
+`[07/14 22:50]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Ammar-Khaled/AirBnB_clone](https://github.com/Ammar-Khaled/AirBnB_clone)  
+`[07/14 01:52]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/13 12:59]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PeterBeard/math-trees](https://github.com/PeterBeard/math-trees)  
 `[07/13 01:52]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/12 18:21]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Ammar-Khaled/AirBnB_clone](https://github.com/Ammar-Khaled/AirBnB_clone)  
@@ -269,17 +271,6 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 `[06/14 04:12]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
 `[06/14 04:06]` <img alt="🎉" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#104`](https://github.com//Davenchy/live-torrent/pull/104 'Bump loader-utils and @vue/cli-service') in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
 `[06/14 04:06]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
-`[06/14 04:05]` <img alt="🎉" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#94`](https://github.com//Davenchy/live-torrent/pull/94 'Bump urijs from 1.19.2 to 1.19.5') in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
-`[06/14 04:05]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#78`](https://github.com//Davenchy/live-torrent/pull/78 'Changed github repo url') in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
-`[06/14 04:00]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
-`[06/14 04:00]` <img alt="🎉" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#101`](https://github.com//Davenchy/live-torrent/pull/101 'Bump minimist and loader-fs-cache') in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
-`[06/14 04:00]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
-`[06/14 04:00]` <img alt="🎉" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#96`](https://github.com//Davenchy/live-torrent/pull/96 'Bump axios from 0.19.2 to 0.21.1') in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
-`[06/14 04:00]` <img alt="🎉" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#100`](https://github.com//Davenchy/live-torrent/pull/100 'Bump decode-uri-component from 0.2.0 to 0.2.2') in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
-`[06/14 04:00]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
-`[06/14 03:59]` <img alt="🎉" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#97`](https://github.com//Davenchy/live-torrent/pull/97 'Update eslint-plugin-prettier: 3.1.2 → 3.3.1 (minor)') in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
-`[06/14 03:59]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
-`[06/14 03:59]` <img alt="🎉" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#98`](https://github.com//Davenchy/live-torrent/pull/98 'Update @fortawesome/fontawesome-free: 5.12.1 → 5.15.2 (minor)') in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
 
 </details>
 <!--END_SECTION:activity-->
