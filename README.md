@@ -66,9 +66,9 @@
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-483%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-995.5%20thousand%20lines%20of%20code-blue)
 
@@ -76,11 +76,11 @@
 
 > 📦 109.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,342 Contributions in the Year 2023
+> 🏆 1,343 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 67 Public Repositories 
+> 📜 68 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
@@ -111,22 +111,22 @@ Sunday                   924 commits         ██████░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-SQL                      6 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   41.79 % 
-Python                   3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-INI                      1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-i3config                 1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-sh                       1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+SQL                      6 hrs 32 mins       ███████████░░░░░░░░░░░░░░   43.76 % 
+CSS                      2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+HTML                     1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+INI                      1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+C                        37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 🔥 Editors: 
-Neovim                   15 hrs 38 mins      █████████████████████████   100.00 % 
+Neovim                   14 hrs 56 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-alx-higher_level_programm6 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   41.79 % 
-Unknown Project          6 hrs               ██████████░░░░░░░░░░░░░░░   38.40 % 
-AirBnB_clone             3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+alx-higher_level_programm6 hrs 32 mins       ███████████░░░░░░░░░░░░░░   43.76 % 
+Unknown Project          4 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+AirBnB_clone_web_static  4 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.73 % 
 
 💻 Operating System: 
-Linux                    15 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -146,7 +146,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davenchy/Davenchy/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2023 01:25:54 UTC
+ Last Updated on 23/07/2023 01:37:50 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
