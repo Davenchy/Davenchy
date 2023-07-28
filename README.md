@@ -153,6 +153,9 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[07/27 01:31]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
+`[07/27 01:27]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Fix_My_Code_Challenge](https://github.com/Davenchy/Fix_My_Code_Challenge)  
+`[07/27 01:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/27 00:55]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Davenchy/Fix_My_Code_Challenge](https://github.com/Davenchy/Fix_My_Code_Challenge)  
 `[07/27 00:07]` <img alt="🍴" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [alx-tools/0x00-Fix_My_Code_Challenge](https://github.com/alx-tools/0x00-Fix_My_Code_Challenge) to [Davenchy/Fix_My_Code_Challenge](https://github.com/Davenchy/Fix_My_Code_Challenge)  
 `[07/26 07:42]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
@@ -160,12 +163,12 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 `[07/24 12:59]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Davenchy/AirBnB_clone](https://github.com/Davenchy/AirBnB_clone)  
 `[07/24 10:36]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Davenchy/simple_shell_tests](https://github.com/Davenchy/simple_shell_tests)  
 `[07/24 01:27]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[07/22 15:53]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [Davenchy/AirBnB_clone](https://github.com/Davenchy/AirBnB_clone)  
-`[07/22 11:02]` <img alt="🍴" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Ammar-Khaled/AirBnB_clone](https://github.com/Ammar-Khaled/AirBnB_clone) to [Davenchy/AirBnB_clone](https://github.com/Davenchy/AirBnB_clone)  
-`[07/22 01:25]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 
 <details><summary>Show More</summary>
 
+`[07/22 15:53]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [Davenchy/AirBnB_clone](https://github.com/Davenchy/AirBnB_clone)  
+`[07/22 11:02]` <img alt="🍴" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Ammar-Khaled/AirBnB_clone](https://github.com/Ammar-Khaled/AirBnB_clone) to [Davenchy/AirBnB_clone](https://github.com/Davenchy/AirBnB_clone)  
+`[07/22 01:25]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/20 02:48]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 `[07/20 01:25]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/20 01:20]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
@@ -248,10 +251,6 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 `[06/19 01:21]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 `[06/18 01:51]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/15 05:06]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
-`[06/15 03:50]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/live-torrent/tree/main) in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
-`[06/15 03:50]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `nextjs-reimplement` from [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
-`[06/15 03:41]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#114`](https://github.com//Davenchy/live-torrent/pull/114 'Bump scss-tokenizer and node-sass') in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
-`[06/15 03:35]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
 
 </details>
 <!--END_SECTION:activity-->
