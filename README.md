@@ -153,19 +153,24 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[08/03 08:40]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)  
+`[08/03 06:04]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/binary_tree_viewer_c](https://github.com/Davenchy/binary_tree_viewer_c)  
+`[08/03 06:02]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/binary_tree_viewer_c/tree/main) in [Davenchy/binary_tree_viewer_c](https://github.com/Davenchy/binary_tree_viewer_c)  
+`[08/03 06:01]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/binary_tree_viewer_c](https://github.com/Davenchy/binary_tree_viewer_c)  
+`[08/03 01:19]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[08/02 07:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [Davenchy/binary_trees](https://github.com/Davenchy/binary_trees)  
 `[08/02 01:18]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[08/02 01:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Davenchy/binary_trees](https://github.com/Davenchy/binary_trees)  
 `[08/01 01:30]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/31 12:20]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/binary_trees](https://github.com/Davenchy/binary_trees)  
+
+<details><summary>Show More</summary>
+
 `[07/31 01:22]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/30 22:52]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-system_engineering-devops](https://github.com/Davenchy/alx-system_engineering-devops)  
 `[07/30 01:22]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/27 01:31]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
 `[07/27 01:27]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Fix_My_Code_Challenge](https://github.com/Davenchy/Fix_My_Code_Challenge)  
-
-<details><summary>Show More</summary>
-
 `[07/27 01:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/27 00:55]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Davenchy/Fix_My_Code_Challenge](https://github.com/Davenchy/Fix_My_Code_Challenge)  
 `[07/27 00:07]` <img alt="🍴" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [alx-tools/0x00-Fix_My_Code_Challenge](https://github.com/alx-tools/0x00-Fix_My_Code_Challenge) to [Davenchy/Fix_My_Code_Challenge](https://github.com/Davenchy/Fix_My_Code_Challenge)  
@@ -240,9 +245,6 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 `[06/29 08:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
 `[06/29 01:45]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/29 00:49]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Kylart/KawAnime](https://github.com/Kylart/KawAnime)  
-`[06/29 00:48]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#452`](https://github.com//dart-lang/ffigen/issues/452 'LibTorrent bindings') in [dart-lang/ffigen](https://github.com/dart-lang/ffigen)  
-`[06/28 01:50]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[06/27 04:48]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/sorting_algorithms](https://github.com/Davenchy/sorting_algorithms)  
 
 </details>
 <!--END_SECTION:activity-->
