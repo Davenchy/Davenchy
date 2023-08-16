@@ -75,15 +75,17 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
- 
-<img  width="400vw" src="https://github-readme-stats.vercel.app/api/wakatime?username=davenchy&theme=radical&hide_border=true"/>
- <br/>
-<img width="400vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=6&card_width=500"/>
- <br/>
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" />
 
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Davenchy&theme=radical&hide_border=true" />
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Davenchy&theme=radical&hide_border=true&bg_color=00000000" />
+<br/>
+ 
+<img  width="400vw" src="https://github-readme-stats.vercel.app/api/wakatime?username=davenchy&theme=radical&hide_border=true&show_icons=true&bg_color=00000000&layout=compact"/>
+ <br/>
+<img width="400vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8&card_width=500&show_icons=true&bg_color=00000000&hide=html,css,vue"/>
+ <br/>
+
  </div>
 
 <hr/>
