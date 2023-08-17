@@ -179,6 +179,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[08/16 05:46]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[08/15 09:48]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 `[08/15 07:58]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/astronvim-config](https://github.com/Davenchy/astronvim-config)  
 `[08/15 07:57]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/learning_rust/tree/main) in [Davenchy/learning_rust](https://github.com/Davenchy/learning_rust)  
@@ -188,10 +189,10 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 `[08/14 20:02]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 `[08/14 01:08]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[08/12 11:47]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/gtk_hello_world_c](https://github.com/Davenchy/gtk_hello_world_c)  
-`[08/12 10:18]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/gtk_hello_world_c/tree/main) in [Davenchy/gtk_hello_world_c](https://github.com/Davenchy/gtk_hello_world_c)  
 
 <details><summary>Show More</summary>
 
+`[08/12 10:18]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/gtk_hello_world_c/tree/main) in [Davenchy/gtk_hello_world_c](https://github.com/Davenchy/gtk_hello_world_c)  
 `[08/12 10:18]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/gtk_hello_world_c](https://github.com/Davenchy/gtk_hello_world_c)  
 `[08/12 05:45]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[08/12 05:21]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//Davenchy/embedded_linux_diploma_2023/issues/1 'What if I Insert any vowel with capital letter like A ,etc ? ') in [Davenchy/embedded_linux_diploma_2023](https://github.com/Davenchy/embedded_linux_diploma_2023)  
@@ -278,7 +279,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 `[07/04 01:50]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/03 16:54]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#115`](https://github.com//Davenchy/live-torrent/issues/115 'Docker image for live-torrent v4') in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
 `[07/03 16:54]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#115`](https://github.com//Davenchy/live-torrent/issues/115 'Docker image for live-torrent v4') in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
-`[07/03 16:51]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
+`[07/03 16:51]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
 
 </details>
 <!--END_SECTION:activity-->
