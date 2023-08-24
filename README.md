@@ -178,19 +178,25 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[08/23 17:52]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Ammar-Khaled/AirBnB_clone_v2](https://github.com/Ammar-Khaled/AirBnB_clone_v2)  
+`[08/23 16:33]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Nutlope/aicommits](https://github.com/Nutlope/aicommits)  
+`[08/23 09:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/hotclip](https://github.com/Davenchy/hotclip)  
+`[08/23 08:53]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/hotclip/tree/main) in [Davenchy/hotclip](https://github.com/Davenchy/hotclip)  
+`[08/23 08:52]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/hotclip](https://github.com/Davenchy/hotclip)  
+`[08/23 01:07]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[08/22 13:39]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Ammar-Khaled/AirBnB_clone_v2](https://github.com/Ammar-Khaled/AirBnB_clone_v2)  
 `[08/22 01:09]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[08/21 15:12]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [Ammar-Khaled/AirBnB_clone_v2](https://github.com/Ammar-Khaled/AirBnB_clone_v2)  
 `[08/21 01:07]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+
+<details><summary>Show More</summary>
+
 `[08/20 18:37]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Ammar-Khaled/AirBnB_clone_v2](https://github.com/Ammar-Khaled/AirBnB_clone_v2)  
 `[08/20 15:59]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 `[08/20 01:11]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[08/19 16:48]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 `[08/19 13:21]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/embedded_linux_diploma_2023](https://github.com/Davenchy/embedded_linux_diploma_2023)  
 `[08/19 01:05]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-
-<details><summary>Show More</summary>
-
 `[08/18 18:51]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `36` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 `[08/17 01:06]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[08/15 09:48]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
@@ -252,12 +258,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 `[07/16 02:01]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/15 16:02]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Ammar-Khaled/AirBnB_clone](https://github.com/Ammar-Khaled/AirBnB_clone)  
 `[07/15 01:50]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[07/14 22:50]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Ammar-Khaled/AirBnB_clone](https://github.com/Ammar-Khaled/AirBnB_clone)  
-`[07/14 01:52]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[07/13 12:59]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PeterBeard/math-trees](https://github.com/PeterBeard/math-trees)  
-`[07/13 01:52]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[07/12 18:21]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Ammar-Khaled/AirBnB_clone](https://github.com/Ammar-Khaled/AirBnB_clone)  
-`[07/12 09:36]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[07/14 22:50]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Ammar-Khaled/AirBnB_clone](https://github.com/Ammar-Khaled/AirBnB_clone)  
 
 </details>
 <!--END_SECTION:activity-->
