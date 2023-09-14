@@ -91,9 +91,9 @@
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
@@ -136,20 +136,20 @@ Sunday                   945 commits         █████░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Python                   3 hrs 44 mins       ███████████░░░░░░░░░░░░░░   44.21 % 
-C                        2 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   29.70 % 
-C++                      1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Python                   4 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.66 % 
+C                        2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+C++                      2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-Neovim                   8 hrs 27 mins       █████████████████████████   100.00 % 
+Neovim                   9 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-embedded_linux_diploma_235 hrs 44 mins       █████████████████░░░░░░░░   67.83 % 
-alx-low_level_programming2 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   32.17 % 
+embedded_linux_diploma_236 hrs 57 mins       ██████████████████░░░░░░░   71.87 % 
+alx-low_level_programming2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.13 % 
 
 💻 Operating System: 
-Linux                    8 hrs 27 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -169,7 +169,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davenchy/Davenchy/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2023 01:10:49 UTC
+ Last Updated on 14/09/2023 01:09:08 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
