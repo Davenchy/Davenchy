@@ -174,7 +174,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-`[09/15 01:10]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[09/16 01:08]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[09/14 11:07]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/embedded_linux_diploma_2023](https://github.com/Davenchy/embedded_linux_diploma_2023)  
 `[09/14 01:09]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[09/12 21:08]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Davenchy/embedded_linux_diploma_2023](https://github.com/Davenchy/embedded_linux_diploma_2023)  
@@ -259,7 +259,6 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 `[08/12 01:06]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[08/11 07:46]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/embedded_linux_diploma_2023](https://github.com/Davenchy/embedded_linux_diploma_2023)  
 `[08/11 06:58]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/embedded_linux_diploma_2023/tree/main) in [Davenchy/embedded_linux_diploma_2023](https://github.com/Davenchy/embedded_linux_diploma_2023)  
-`[08/11 05:41]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/embedded_linux_diploma_2023](https://github.com/Davenchy/embedded_linux_diploma_2023)  
 
 </details>
 <!--END_SECTION:activity-->
