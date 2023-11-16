@@ -177,6 +177,8 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[11/15 22:16]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#218`](https://github.com//dart-lang/native/issues/218 'LibTorrent bindings') in [dart-lang/native](https://github.com/dart-lang/native)  
+`[11/15 01:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[11/14 21:49]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Davenchy/utm](https://github.com/Davenchy/utm)  
 `[11/14 21:49]` <img alt="🎉" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//Davenchy/utm/pull/3 'Hotfix') in [Davenchy/utm](https://github.com/Davenchy/utm)  
 `[11/14 21:49]` <img alt="✅" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//Davenchy/utm/pull/3 'Hotfix') in [Davenchy/utm](https://github.com/Davenchy/utm)  
@@ -185,11 +187,11 @@ Rust                     1 repo              ░░░░░░░░░░░�
 `[11/14 21:19]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `95` commits in [Davenchy/utm](https://github.com/Davenchy/utm)  
 `[11/14 21:19]` <img alt="🎉" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//Davenchy/utm/pull/2 'Feature newtab') in [Davenchy/utm](https://github.com/Davenchy/utm)  
 `[11/14 21:19]` <img alt="✅" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//Davenchy/utm/pull/2 'Feature newtab') in [Davenchy/utm](https://github.com/Davenchy/utm)  
-`[11/14 21:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [Davenchy/utm](https://github.com/Davenchy/utm)  
-`[11/14 01:12]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 
 <details><summary>Show More</summary>
 
+`[11/14 21:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [Davenchy/utm](https://github.com/Davenchy/utm)  
+`[11/14 01:12]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[11/12 13:21]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/embedded_linux_diploma_2023](https://github.com/Davenchy/embedded_linux_diploma_2023)  
 `[11/12 01:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[11/11 13:32]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/embedded_linux_diploma_2023](https://github.com/Davenchy/embedded_linux_diploma_2023)  
@@ -300,7 +302,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 `[09/12 07:11]` <img alt="🍴" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [alx-tools/0x01-Fix_My_Code_Challenge](https://github.com/alx-tools/0x01-Fix_My_Code_Challenge) to [Davenchy/0x01-Fix_My_Code_Challenge](https://github.com/Davenchy/0x01-Fix_My_Code_Challenge)  
 `[09/12 07:03]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Davenchy/alx-low_level_programming](https://github.com/Davenchy/alx-low_level_programming)  
 `[09/12 01:08]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[09/10 21:23]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/embedded_linux_diploma_2023](https://github.com/Davenchy/embedded_linux_diploma_2023)  
+`[09/10 21:23]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/embedded_linux_diploma_2023](https://github.com/Davenchy/embedded_linux_diploma_2023)  
 
 </details>
 <!--END_SECTION:activity-->
