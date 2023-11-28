@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Software Engineering @ALX_Africa/Embedded Linux with Eng. Moatasem El-Sayed**
 
-- 💬 Ask me about **C, Python, Javascript, Dart**
+- 💬 Ask me about **C/CPP, Python, Javascript, Dart**
 
 - ⚡ Fun fact **I think I like to know how things work under the hood**
 
