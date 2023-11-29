@@ -181,9 +181,19 @@ C++                      2 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[11/28 03:59]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[11/28 03:52]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1257`](https://github.com//FastForwardTeam/FastForward/issues/1257 'Support for 3rabsports') in [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward)  
+`[11/28 03:52]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1257`](https://github.com//FastForwardTeam/FastForward/issues/1257 'Support for 3rabsports') in [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward)  
+`[11/28 03:47]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1256`](https://github.com//FastForwardTeam/FastForward/issues/1256 'Request Support For cutt.us') in [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward)  
+`[11/28 03:47]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1256`](https://github.com//FastForwardTeam/FastForward/issues/1256 'Request Support For cutt.us') in [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward)  
+`[11/28 03:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
+`[11/28 01:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[11/28 00:30]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
 `[11/27 22:24]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/alx-backend-javascript/tree/main) in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
 `[11/27 22:24]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
+
+<details><summary>Show More</summary>
+
 `[11/27 18:09]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1257`](https://github.com//FastForwardTeam/FastForward/issues/1257 'Support for 3rabsports') in [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward)  
 `[11/27 18:03]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1256`](https://github.com//FastForwardTeam/FastForward/issues/1256 'Request Support For cutt.us') in [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward)  
 `[11/27 01:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
@@ -191,9 +201,6 @@ C++                      2 repos             █░░░░░░░░░░�
 `[11/25 17:42]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Davenchy/service_generator](https://github.com/Davenchy/service_generator)  
 `[11/25 06:08]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `rebuild` from [Davenchy/service_generator](https://github.com/Davenchy/service_generator)  
 `[11/25 06:08]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Davenchy/service_generator](https://github.com/Davenchy/service_generator)  
-
-<details><summary>Show More</summary>
-
 `[11/25 06:08]` <img alt="🎉" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Davenchy/service_generator/pull/1 'Rebuild') in [Davenchy/service_generator](https://github.com/Davenchy/service_generator)  
 `[11/25 06:08]` <img alt="✅" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//Davenchy/service_generator/pull/1 'Rebuild') in [Davenchy/service_generator](https://github.com/Davenchy/service_generator)  
 `[11/25 06:07]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/service_generator](https://github.com/Davenchy/service_generator)  
@@ -318,18 +325,7 @@ C++                      2 repos             █░░░░░░░░░░�
 `[09/26 12:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/alx-system_engineering-devops](https://github.com/Davenchy/alx-system_engineering-devops)  
 `[09/26 01:31]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/AirBnB_clone_v2](https://github.com/Davenchy/AirBnB_clone_v2)  
 `[09/26 01:11]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[09/25 19:34]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Davenchy/alx-system_engineering-devops](https://github.com/Davenchy/alx-system_engineering-devops)  
-`[09/25 17:51]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/AirBnB_clone_v2](https://github.com/Davenchy/AirBnB_clone_v2)  
-`[09/25 17:48]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/alx-system_engineering-devops](https://github.com/Davenchy/alx-system_engineering-devops)  
-`[09/25 01:11]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[09/24 23:50]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/hotclip](https://github.com/Davenchy/hotclip)  
-`[09/24 23:47]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Davenchy/ping_pong_cpp](https://github.com/Davenchy/ping_pong_cpp)  
-`[09/24 23:30]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/ping_pong_cpp/tree/main) in [Davenchy/ping_pong_cpp](https://github.com/Davenchy/ping_pong_cpp)  
-`[09/24 23:30]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/ping_pong_cpp](https://github.com/Davenchy/ping_pong_cpp)  
-`[09/24 18:05]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/cping-pong](https://github.com/Davenchy/cping-pong)  
-`[09/24 15:54]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/AirBnB_clone_v2](https://github.com/Davenchy/AirBnB_clone_v2)  
-`[09/24 01:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[09/24 00:44]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/AirBnB_clone_v2](https://github.com/Davenchy/AirBnB_clone_v2)  
+`[09/25 19:34]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Davenchy/alx-system_engineering-devops](https://github.com/Davenchy/alx-system_engineering-devops)  
 
 </details>
 <!--END_SECTION:activity-->
