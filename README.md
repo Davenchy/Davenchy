@@ -183,19 +183,22 @@ C++                      2 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-`[12/03 01:18]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[12/04 23:40]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
+`[12/04 22:32]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
+`[12/04 17:33]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [elenapan/dotfiles](https://github.com/elenapan/dotfiles)  
+`[12/04 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[12/01 02:07]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)  
 `[12/01 01:52]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
 `[12/01 01:21]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[12/01 01:11]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
 `[11/30 01:51]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
 `[11/30 01:35]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/alx-interview/tree/main) in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
-`[11/30 01:35]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
-`[11/30 01:33]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
-`[11/30 01:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 
 <details><summary>Show More</summary>
 
+`[11/30 01:35]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
+`[11/30 01:33]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
+`[11/30 01:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[11/30 01:05]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `22` commits in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
 `[11/29 17:00]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[11/29 16:58]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Davenchy/zellij-wrapper](https://github.com/Davenchy/zellij-wrapper)  
@@ -315,11 +318,7 @@ C++                      2 repos             █░░░░░░░░░░�
 `[10/06 01:11]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[10/05 17:06]` <img alt="🍴" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [jzamora5/AirBnB_clone_v3](https://github.com/jzamora5/AirBnB_clone_v3) to [Davenchy/AirBnB_clone_v4](https://github.com/Davenchy/AirBnB_clone_v4)  
 `[10/05 01:11]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[10/04 22:51]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
-`[10/04 01:12]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[10/02 23:09]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Ammar-Khaled/AirBnB_clone_v3](https://github.com/Ammar-Khaled/AirBnB_clone_v3)  
-`[10/02 01:11]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[09/30 11:06]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Ammar-Khaled/AirBnB_clone_v3](https://github.com/Ammar-Khaled/AirBnB_clone_v3)  
+`[10/04 22:51]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-higher_level_programming](https://github.com/Davenchy/alx-higher_level_programming)  
 
 </details>
 <!--END_SECTION:activity-->
