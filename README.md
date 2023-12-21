@@ -98,7 +98,7 @@
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-770%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-773%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -106,7 +106,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 136.3 kB Used in GitHub's Storage 
+> 📦 135.1 kB Used in GitHub's Storage 
  > 
 > 🏆 2,100 Contributions in the Year 2023
  > 
@@ -143,19 +143,19 @@ Sunday                   989 commits         █████░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Python                   1 hr 41 mins        ████████████████████████░   97.43 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Python                   1 hr 55 mins        █████████████████████████   98.17 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-Neovim                   1 hr 43 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 58 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-alx-backend-python       1 hr 11 mins        █████████████████░░░░░░░░   68.49 % 
-Unknown Project          29 mins             ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-alx-interview            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+codecrafters-grep-python 1 hr 3 mins         █████████████░░░░░░░░░░░░   53.39 % 
+alx-interview            54 mins             ████████████░░░░░░░░░░░░░   46.29 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Linux                    1 hr 43 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -175,7 +175,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davenchy/Davenchy/main/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2023 01:02:03 UTC
+ Last Updated on 21/12/2023 01:13:39 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
