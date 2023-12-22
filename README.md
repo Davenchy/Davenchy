@@ -180,7 +180,9 @@ C++                      2 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-`[12/20 01:02]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[12/22 01:08]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/docker-clone-py/tree/main) in [Davenchy/docker-clone-py](https://github.com/Davenchy/docker-clone-py)  
+`[12/22 01:05]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/docker-clone-py](https://github.com/Davenchy/docker-clone-py)  
+`[12/21 01:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[12/19 00:31]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
 `[12/18 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[12/15 01:37]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-backend-storage](https://github.com/Davenchy/alx-backend-storage)  
@@ -188,11 +190,11 @@ C++                      2 repos             █░░░░░░░░░░�
 `[12/15 01:35]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/alx-backend-storage](https://github.com/Davenchy/alx-backend-storage)  
 `[12/15 01:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[12/13 00:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Davenchy/alx-backend-python](https://github.com/Davenchy/alx-backend-python)  
-`[12/12 04:46]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
-`[12/12 01:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 
 <details><summary>Show More</summary>
 
+`[12/12 04:46]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
+`[12/12 01:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[12/12 00:09]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [Davenchy/alx-backend-python](https://github.com/Davenchy/alx-backend-python)  
 `[12/11 18:48]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/astronvim-config](https://github.com/Davenchy/astronvim-config)  
 `[12/11 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
@@ -308,7 +310,6 @@ C++                      2 repos             █░░░░░░░░░░�
 `[10/31 19:21]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/utm](https://github.com/Davenchy/utm)  
 `[10/31 01:11]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[10/30 20:35]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/utm](https://github.com/Davenchy/utm)  
-`[10/30 01:11]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 
 </details>
 <!--END_SECTION:activity-->
