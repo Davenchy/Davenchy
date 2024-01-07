@@ -98,7 +98,7 @@
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -143,17 +143,17 @@ Sunday                   989 commits         █████░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               15 hrs 53 mins      █████████████████████████   99.11 % 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+TypeScript               7 hrs 40 mins       █████████████████████████   98.17 % 
+HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-Neovim                   16 hrs 1 min        █████████████████████████   100.00 % 
+Neovim                   7 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          16 hrs 1 min        █████████████████████████   100.00 % 
+Unknown Project          7 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    16 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    7 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -173,7 +173,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davenchy/Davenchy/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2024 01:13:48 UTC
+ Last Updated on 07/01/2024 01:20:46 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
