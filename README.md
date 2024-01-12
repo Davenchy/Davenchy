@@ -1,16 +1,19 @@
 <p align="center"><img alt="Hello My Friend!" src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&pause=1000&lines=Hello+My+Friend!" /></p>
 <h1 align="center">Hi 👋, I'm Davenchy</h1>
-<h3 align="center">A passionate future software engineer</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 <hr />
-<a href="https://app.daily.dev/Davenchy">
- <img src="devcard.svg" align="right" width="300" alt="Fadi Assad's Dev Card"/></a>
 
 - 🌱 I’m currently learning **Software Engineering @ALX_Africa/Embedded Linux with Eng. Moatasem El-Sayed**
 
-- 💬 Ask me about **C/CPP, Python, Javascript, Dart**
+- ⚡ A fact about me: **I think I like to know how things work under the hood**
 
-- ⚡ Fun fact **I think I like to know how things work under the hood**
+## About Me
+
+Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech areas. I enjoy figuring out how things work by creating my tools. My dream? A future where we use VR Glasses every day, powered by AI. Let's journey into this tech world together! 👨‍💻✨ #TechExplorer #Dreamer #AI #VR
+
+<a href="https://app.daily.dev/Davenchy" style="display: block">
+ <img src="devcard.svg" align="right" width="300" alt="Fadi Assad's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
