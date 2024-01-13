@@ -17,6 +17,7 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
+<a href="https://www.hackerrank.com/profile/Davenchy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="davenchy" height="30" width="40" /></a>
 <a href="https://codepen.io/davenchy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="davenchy" height="30" width="40" /></a>
 <a href="https://dev.to/fadi_davenchy" target="blank"><img align="center" src="https://www.google.com/s2/favicons?domain=dev.to&sz=128" alt="fadi_davenchy" height="30" width="40" /></a>
 <a href="https://twitter.com/fadi_davenchy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fadi_davenchy" height="30" width="40" /></a>
