@@ -186,7 +186,9 @@ C++                      2 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-`[01/10 01:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[01/12 22:02]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[01/12 21:08]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/AirBnB_clone_v4](https://github.com/Davenchy/AirBnB_clone_v4)  
+`[01/12 01:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[12/29 23:14]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [transmission/transmission](https://github.com/transmission/transmission)  
 `[12/29 01:03]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[12/25 16:24]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)  
@@ -194,11 +196,11 @@ C++                      2 repos             █░░░░░░░░░░�
 `[12/22 01:18]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [QazmoQwerty/palette](https://github.com/QazmoQwerty/palette)  
 `[12/22 01:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[12/22 01:12]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/docker-clone-py](https://github.com/Davenchy/docker-clone-py)  
-`[12/22 01:08]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/docker-clone-py/tree/main) in [Davenchy/docker-clone-py](https://github.com/Davenchy/docker-clone-py)  
-`[12/22 01:05]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/docker-clone-py](https://github.com/Davenchy/docker-clone-py)  
 
 <details><summary>Show More</summary>
 
+`[12/22 01:08]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/docker-clone-py/tree/main) in [Davenchy/docker-clone-py](https://github.com/Davenchy/docker-clone-py)  
+`[12/22 01:05]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/docker-clone-py](https://github.com/Davenchy/docker-clone-py)  
 `[12/21 01:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[12/19 00:31]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
 `[12/18 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
@@ -308,8 +310,7 @@ C++                      2 repos             █░░░░░░░░░░�
 `[11/14 01:12]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[11/12 13:21]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/embedded_linux_diploma_2023](https://github.com/Davenchy/embedded_linux_diploma_2023)  
 `[11/12 01:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[11/11 13:32]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/embedded_linux_diploma_2023](https://github.com/Davenchy/embedded_linux_diploma_2023)  
-`[11/11 02:28]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[11/11 13:32]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/embedded_linux_diploma_2023](https://github.com/Davenchy/embedded_linux_diploma_2023)  
 
 </details>
 <!--END_SECTION:activity-->
