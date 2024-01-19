@@ -102,7 +102,7 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-823%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
@@ -147,18 +147,19 @@ Sunday                   989 commits         █████░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Python                   19 mins             ███████████████░░░░░░░░░░   61.77 % 
-Other                    8 mins              ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-Kconfig                  3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Python                   1 hr 40 mins        ██████████████████████░░░   89.41 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Kconfig                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-Neovim                   30 mins             █████████████████████████   100.00 % 
+Neovim                   1 hr 52 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          30 mins             █████████████████████████   100.00 % 
+Unknown Project          1 hr 52 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    30 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -178,7 +179,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davenchy/Davenchy/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2024 01:15:55 UTC
+ Last Updated on 19/01/2024 01:16:41 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
