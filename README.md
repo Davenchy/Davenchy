@@ -184,19 +184,22 @@ C++                      2 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-`[01/20 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[01/21 21:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [Davenchy/linux-bot](https://github.com/Davenchy/linux-bot)  
+`[01/21 11:47]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/linux-bot/tree/main) in [Davenchy/linux-bot](https://github.com/Davenchy/linux-bot)  
+`[01/21 11:45]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/linux-bot](https://github.com/Davenchy/linux-bot)  
+`[01/21 01:21]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[01/19 00:12]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dessant/search-by-image](https://github.com/dessant/search-by-image)  
 `[01/18 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[01/12 21:08]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/AirBnB_clone_v4](https://github.com/Davenchy/AirBnB_clone_v4)  
 `[01/12 01:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[12/29 23:14]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [transmission/transmission](https://github.com/transmission/transmission)  
 `[12/29 01:03]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[12/25 16:24]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)  
-`[12/25 01:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[12/22 01:18]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [QazmoQwerty/palette](https://github.com/QazmoQwerty/palette)  
 
 <details><summary>Show More</summary>
 
+`[12/25 16:24]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)  
+`[12/25 01:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[12/22 01:18]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [QazmoQwerty/palette](https://github.com/QazmoQwerty/palette)  
 `[12/22 01:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[12/22 01:12]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/docker-clone-py](https://github.com/Davenchy/docker-clone-py)  
 `[12/22 01:08]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/docker-clone-py/tree/main) in [Davenchy/docker-clone-py](https://github.com/Davenchy/docker-clone-py)  
@@ -288,19 +291,6 @@ C++                      2 repos             █░░░░░░░░░░�
 `[11/16 16:29]` <img alt="🎉" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//Davenchy/utm/pull/5 'Update README.md') in [Davenchy/utm](https://github.com/Davenchy/utm)  
 `[11/16 16:28]` <img alt="✅" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5`](https://github.com//Davenchy/utm/pull/5 'Update README.md') in [Davenchy/utm](https://github.com/Davenchy/utm)  
 `[11/16 16:28]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Davenchy-update-readme`](https://github.com/Davenchy/utm/tree/Davenchy-update-readme) in [Davenchy/utm](https://github.com/Davenchy/utm)  
-`[11/16 14:18]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `hotfix` from [Davenchy/utm](https://github.com/Davenchy/utm)  
-`[11/16 14:17]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `clean-up` from [Davenchy/utm](https://github.com/Davenchy/utm)  
-`[11/16 14:17]` <img alt="🎉" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//Davenchy/utm/pull/4 'Clean up project files, Add comments and docs, Update README') in [Davenchy/utm](https://github.com/Davenchy/utm)  
-`[11/16 14:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Davenchy/utm](https://github.com/Davenchy/utm)  
-`[11/16 14:17]` <img alt="🔍" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#4`](https://github.com//Davenchy/utm/pull/4 'Clean up project files, Add comments and docs, Update README') in [Davenchy/utm](https://github.com/Davenchy/utm)  
-`[11/16 13:58]` <img alt="🔍" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#4`](https://github.com//Davenchy/utm/pull/4 'Clean up project files, Add comments and docs, Update README') in [Davenchy/utm](https://github.com/Davenchy/utm)  
-`[11/16 13:53]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/utm](https://github.com/Davenchy/utm)  
-`[11/16 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[11/15 22:16]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#218`](https://github.com//dart-lang/native/issues/218 'LibTorrent bindings') in [dart-lang/native](https://github.com/dart-lang/native)  
-`[11/15 01:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[11/14 21:49]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Davenchy/utm](https://github.com/Davenchy/utm)  
-`[11/14 21:49]` <img alt="🎉" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//Davenchy/utm/pull/3 'Hotfix') in [Davenchy/utm](https://github.com/Davenchy/utm)  
-`[11/14 21:49]` <img alt="✅" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//Davenchy/utm/pull/3 'Hotfix') in [Davenchy/utm](https://github.com/Davenchy/utm)  
 
 </details>
 <!--END_SECTION:activity-->
