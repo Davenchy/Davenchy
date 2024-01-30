@@ -102,7 +102,7 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-868%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -112,7 +112,7 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 
 > 📦 134.8 kB Used in GitHub's Storage 
  > 
-> 🏆 25 Contributions in the Year 2024
+> 🏆 29 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -120,6 +120,51 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                665 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+🌆 Daytime                1115 commits        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+🌃 Evening                1672 commits        ████████░░░░░░░░░░░░░░░░░   33.44 % 
+🌙 Night                  1548 commits        ████████░░░░░░░░░░░░░░░░░   30.96 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   699 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Tuesday                  589 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Wednesday                543 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Thursday                 655 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Friday                   795 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Saturday                 708 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Sunday                   1011 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Cairo
+
+💬 Programming Languages: 
+Python                   29 hrs              ██████████████████████░░░   86.64 % 
+Markdown                 4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+postscr                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔥 Editors: 
+Neovim                   33 hrs 28 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+storyteller              24 hrs 17 mins      ██████████████████░░░░░░░   72.53 % 
+linux-bot                8 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+alx-interview            30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+💻 Operating System: 
+Linux                    33 hrs 28 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -137,7 +182,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davenchy/Davenchy/main/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2024 01:10:48 UTC
+ Last Updated on 30/01/2024 01:10:34 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
