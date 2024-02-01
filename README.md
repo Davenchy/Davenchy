@@ -68,6 +68,7 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 ## Favorite Projects
 
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=service_generator)](https://github.com/Davenchy/service_generator)
+[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=agent-ai)](https://github.com/Davenchy/agent-ai)
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=zellij-wrapper)](https://github.com/Davenchy/zellij-wrapper)
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=pc-remote)](https://github.com/Davenchy/pc-remote)
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=hotclip)](https://github.com/Davenchy/hotclip)
