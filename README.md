@@ -190,19 +190,24 @@ C++                      2 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[02/03 01:08]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[02/02 08:51]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Davenchy/astronvim-config](https://github.com/Davenchy/astronvim-config)  
+`[02/02 05:17]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [catppuccin/nvim](https://github.com/catppuccin/nvim)  
+`[02/02 04:44]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/astronvim-config](https://github.com/Davenchy/astronvim-config)  
+`[02/02 03:28]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)  
 `[02/01 02:26]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [openlm-research/open_llama](https://github.com/openlm-research/open_llama)  
 `[02/01 02:06]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/agent-ai](https://github.com/Davenchy/agent-ai)  
 `[02/01 01:33]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/linux-bot](https://github.com/Davenchy/linux-bot)  
 `[02/01 01:31]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/hotclip](https://github.com/Davenchy/hotclip)  
 `[02/01 01:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/agent-ai](https://github.com/Davenchy/agent-ai)  
+
+<details><summary>Show More</summary>
+
 `[02/01 01:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[02/01 01:01]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/agent-ai](https://github.com/Davenchy/agent-ai)  
 `[02/01 00:47]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[02/01 00:45]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Davenchy/agent-ai](https://github.com/Davenchy/agent-ai)  
 `[01/31 01:10]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-
-<details><summary>Show More</summary>
-
 `[01/30 03:42]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/agent-ai](https://github.com/Davenchy/agent-ai)  
 `[01/30 03:19]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/agent-ai/tree/main) in [Davenchy/agent-ai](https://github.com/Davenchy/agent-ai)  
 `[01/30 03:18]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/agent-ai](https://github.com/Davenchy/agent-ai)  
@@ -288,10 +293,6 @@ C++                      2 repos             █░░░░░░░░░░�
 `[11/27 22:24]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/alx-backend-javascript/tree/main) in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
 `[11/27 22:24]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
 `[11/27 18:09]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1257`](https://github.com//FastForwardTeam/FastForward/issues/1257 'Support for 3rabsports') in [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward)  
-`[11/27 18:03]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1256`](https://github.com//FastForwardTeam/FastForward/issues/1256 'Request Support For cutt.us') in [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward)  
-`[11/27 01:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[11/25 17:44]` <img alt="🏷" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`V1`](https://github.com/Davenchy/service_generator/releases/tag/V1) in [Davenchy/service_generator](https://github.com/Davenchy/service_generator)  
-`[11/25 17:42]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/service_generator](https://github.com/Davenchy/service_generator)  
 
 </details>
 <!--END_SECTION:activity-->
