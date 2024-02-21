@@ -103,7 +103,7 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-902%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-908%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -111,7 +111,7 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 
 **🐱 My GitHub Data** 
 
-> 📦 135.7 kB Used in GitHub's Storage 
+> 📦 135.8 kB Used in GitHub's Storage 
  > 
 > 🏆 88 Contributions in the Year 2024
  > 
@@ -148,19 +148,21 @@ Sunday                   1011 commits        █████░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Dart                     55 mins             ███████████████████░░░░░░   75.05 % 
-C                        16 mins             ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-Lua                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Python                   3 hrs 59 mins       ██████████████░░░░░░░░░░░   55.95 % 
+Text                     1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+Dart                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+C                        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 Editors: 
-Neovim                   1 hr 13 mins        █████████████████████████   100.00 % 
+Neovim                   7 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 12 mins        ████████████████████████░   97.48 % 
-user                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Unknown Project          7 hrs 6 mins        █████████████████████████   99.56 % 
+user                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Linux                    1 hr 13 mins        █████████████████████████   100.00 % 
+Linux                    7 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -180,7 +182,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davenchy/Davenchy/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2024 01:08:57 UTC
+ Last Updated on 21/02/2024 01:10:16 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
