@@ -187,7 +187,8 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-`[02/20 01:08]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[02/21 08:03]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1466`](https://github.com//phhusson/treble_experimentations/issues/1466 'system  images too large for my device. (umidigi a7 pro)') in [phhusson/treble_experimentations](https://github.com/phhusson/treble_experimentations)  
+`[02/21 01:10]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[02/10 04:26]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abigaliz/krustyfy](https://github.com/abigaliz/krustyfy)  
 `[02/10 04:19]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/deadd_control](https://github.com/Davenchy/deadd_control)  
 `[02/10 04:18]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/ppm-canvas-c](https://github.com/Davenchy/ppm-canvas-c)  
@@ -196,10 +197,10 @@ TypeScript               4 repos             █░░░░░░░░░░�
 `[02/10 01:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/deadd_control](https://github.com/Davenchy/deadd_control)  
 `[02/10 01:08]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[02/10 00:37]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/deadd_control](https://github.com/Davenchy/deadd_control)  
-`[02/10 00:16]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/deadd_contorl/tree/main) in [Davenchy/deadd_contorl](https://github.com/Davenchy/deadd_contorl)  
 
 <details><summary>Show More</summary>
 
+`[02/10 00:16]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/deadd_contorl/tree/main) in [Davenchy/deadd_contorl](https://github.com/Davenchy/deadd_contorl)  
 `[02/10 00:16]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/deadd_contorl](https://github.com/Davenchy/deadd_contorl)  
 `[02/08 01:09]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[02/04 05:37]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [home-assistant/core](https://github.com/home-assistant/core)  
@@ -296,8 +297,6 @@ TypeScript               4 repos             █░░░░░░░░░░�
 `[11/29 16:36]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/zellij-wrapper](https://github.com/Davenchy/zellij-wrapper)  
 `[11/29 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[11/28 03:52]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1257`](https://github.com//FastForwardTeam/FastForward/issues/1257 'Support for 3rabsports') in [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward)  
-`[11/28 03:52]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1257`](https://github.com//FastForwardTeam/FastForward/issues/1257 'Support for 3rabsports') in [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward)  
-`[11/28 03:47]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1256`](https://github.com//FastForwardTeam/FastForward/issues/1256 'Request Support For cutt.us') in [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward)  
 
 </details>
 <!--END_SECTION:activity-->
