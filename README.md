@@ -148,18 +148,16 @@ Sunday                   1011 commits        █████░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Dart                     11 mins             ███████████████░░░░░░░░░░   59.16 % 
-JSON                     8 mins              ██████████░░░░░░░░░░░░░░░   40.84 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-whatsapp_status          13 mins             █████████████████░░░░░░░░   66.60 % 
-checker                  6 mins              ████████░░░░░░░░░░░░░░░░░   33.40 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -179,7 +177,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davenchy/Davenchy/main/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2024 01:10:51 UTC
+ Last Updated on 16/03/2024 01:08:55 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
