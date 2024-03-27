@@ -182,7 +182,9 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-`[03/25 01:12]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[03/26 18:21]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#218`](https://github.com//dart-lang/native/issues/218 'LibTorrent bindings') in [dart-lang/native](https://github.com/dart-lang/native)  
+`[03/26 18:08]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#218`](https://github.com//dart-lang/native/issues/218 'LibTorrent bindings') in [dart-lang/native](https://github.com/dart-lang/native)  
+`[03/26 01:10]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[03/17 20:21]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//Davenchy/general_json_rpc/issues/2 'Q: what permission are needed to run server on the phone?') in [Davenchy/general_json_rpc](https://github.com/Davenchy/general_json_rpc)  
 `[03/17 20:21]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//Davenchy/general_json_rpc/issues/2 'Q: what permission are needed to run server on the phone?') in [Davenchy/general_json_rpc](https://github.com/Davenchy/general_json_rpc)  
 `[03/17 01:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
@@ -190,11 +192,11 @@ TypeScript               4 repos             █░░░░░░░░░░�
 `[02/21 01:10]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[02/10 04:26]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abigaliz/krustyfy](https://github.com/abigaliz/krustyfy)  
 `[02/10 04:19]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/deadd_control](https://github.com/Davenchy/deadd_control)  
-`[02/10 04:18]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/ppm-canvas-c](https://github.com/Davenchy/ppm-canvas-c)  
-`[02/10 04:12]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/ppm-canvas-c/tree/main) in [Davenchy/ppm-canvas-c](https://github.com/Davenchy/ppm-canvas-c)  
 
 <details><summary>Show More</summary>
 
+`[02/10 04:18]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/ppm-canvas-c](https://github.com/Davenchy/ppm-canvas-c)  
+`[02/10 04:12]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/ppm-canvas-c/tree/main) in [Davenchy/ppm-canvas-c](https://github.com/Davenchy/ppm-canvas-c)  
 `[02/10 04:11]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/ppm-canvas-c](https://github.com/Davenchy/ppm-canvas-c)  
 `[02/10 01:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/deadd_control](https://github.com/Davenchy/deadd_control)  
 `[02/10 01:08]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
@@ -240,8 +242,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 `[01/12 21:08]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/AirBnB_clone_v4](https://github.com/Davenchy/AirBnB_clone_v4)  
 `[01/12 01:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[12/29 23:14]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [transmission/transmission](https://github.com/transmission/transmission)  
-`[12/29 01:03]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[12/25 16:24]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)  
+`[12/29 01:03]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 
 </details>
 <!--END_SECTION:activity-->
