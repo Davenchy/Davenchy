@@ -103,7 +103,7 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-910%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-912%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -112,8 +112,6 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 **🐱 My GitHub Data** 
 
 > 📦 136.1 kB Used in GitHub's Storage 
- > 
-> 🏆 95 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -148,16 +146,22 @@ Sunday                   1011 commits        █████░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vim Script               42 mins             ███████████░░░░░░░░░░░░░░   42.86 % 
+Other                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+C++                      19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Dart                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      1 hr 39 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          51 mins             █████████████░░░░░░░░░░░░   52.18 % 
+cbindings                44 mins             ███████████░░░░░░░░░░░░░░   44.61 % 
+copilot.vim              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -177,7 +181,7 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davenchy/Davenchy/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2024 01:10:40 UTC
+ Last Updated on 29/03/2024 01:11:07 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
