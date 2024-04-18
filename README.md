@@ -188,6 +188,8 @@ C++                      3 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[04/18 01:09]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
+`[04/17 01:12]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[04/16 12:54]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/domain_to_ipv4_c](https://github.com/Davenchy/domain_to_ipv4_c)  
 `[04/16 12:50]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/domain_to_ipv4_c/tree/main) in [Davenchy/domain_to_ipv4_c](https://github.com/Davenchy/domain_to_ipv4_c)  
 `[04/16 12:49]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/domain_to_ipv4_c](https://github.com/Davenchy/domain_to_ipv4_c)  
@@ -196,11 +198,11 @@ C++                      3 repos             █░░░░░░░░░░�
 `[04/15 05:50]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
 `[04/15 03:30]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[04/11 18:26]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
-`[04/11 01:12]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[04/10 23:44]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/torrify/tree/main) in [Davenchy/torrify](https://github.com/Davenchy/torrify)  
 
 <details><summary>Show More</summary>
 
+`[04/11 01:12]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[04/10 23:44]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/torrify/tree/main) in [Davenchy/torrify](https://github.com/Davenchy/torrify)  
 `[04/10 23:44]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/torrify](https://github.com/Davenchy/torrify)  
 `[04/10 01:11]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[04/09 03:21]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
@@ -278,7 +280,7 @@ C++                      3 repos             █░░░░░░░░░░�
 `[01/21 11:45]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/linux-bot](https://github.com/Davenchy/linux-bot)  
 `[01/21 01:21]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[01/19 00:12]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dessant/search-by-image](https://github.com/dessant/search-by-image)  
-`[01/18 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[01/18 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 
 </details>
 <!--END_SECTION:activity-->
