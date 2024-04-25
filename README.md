@@ -109,9 +109,9 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-951%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-950%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -188,7 +188,7 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davenchy/Davenchy/main/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2024 05:09:52 UTC
+ Last Updated on 25/04/2024 01:14:47 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
