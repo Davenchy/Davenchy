@@ -193,19 +193,25 @@ C++                      3 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[05/03 01:09]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
+`[05/02 13:50]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Davenchy/todo-backend-nodejs](https://github.com/Davenchy/todo-backend-nodejs)  
+`[05/02 13:44]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/todo-backend-nodejs/tree/main) in [Davenchy/todo-backend-nodejs](https://github.com/Davenchy/todo-backend-nodejs)  
+`[05/02 13:43]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/todo-backend-nodejs](https://github.com/Davenchy/todo-backend-nodejs)  
+`[05/02 04:06]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Davenchy/alx-backend-storage](https://github.com/Davenchy/alx-backend-storage)  
+`[05/02 01:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/01 04:00]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [Davenchy/alx-backend-storage](https://github.com/Davenchy/alx-backend-storage)  
 `[05/01 01:18]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/01 01:08]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `23` commits in [Davenchy/alx-backend-storage](https://github.com/Davenchy/alx-backend-storage)  
 `[04/30 01:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+
+<details><summary>Show More</summary>
+
 `[04/26 01:01]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `37` commits in [Davenchy/alx-backend-storage](https://github.com/Davenchy/alx-backend-storage)  
 `[04/25 19:28]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/alx-backend-storage/tree/main) in [Davenchy/alx-backend-storage](https://github.com/Davenchy/alx-backend-storage)  
 `[04/25 19:28]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/alx-backend-storage](https://github.com/Davenchy/alx-backend-storage)  
 `[04/25 01:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[04/24 04:56]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/libtorrent-dart-bindings-example](https://github.com/Davenchy/libtorrent-dart-bindings-example)  
 `[04/24 04:45]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//Davenchy/libtorrent-dart-bindings-example/issues/1 'Can this library run on mobile platforms? What should be taken into consideration?') in [Davenchy/libtorrent-dart-bindings-example](https://github.com/Davenchy/libtorrent-dart-bindings-example)  
-
-<details><summary>Show More</summary>
-
 `[04/24 03:01]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[04/24 00:45]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
 `[04/23 23:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Davenchy/alx-backend-python](https://github.com/Davenchy/alx-backend-python)  
@@ -280,15 +286,6 @@ C++                      3 repos             █░░░░░░░░░░�
 `[02/02 05:17]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [catppuccin/nvim](https://github.com/catppuccin/nvim)  
 `[02/02 04:44]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/astronvim-config](https://github.com/Davenchy/astronvim-config)  
 `[02/02 03:28]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)  
-`[02/01 02:26]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [openlm-research/open_llama](https://github.com/openlm-research/open_llama)  
-`[02/01 02:06]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/agent-ai](https://github.com/Davenchy/agent-ai)  
-`[02/01 01:33]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/linux-bot](https://github.com/Davenchy/linux-bot)  
-`[02/01 01:31]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/hotclip](https://github.com/Davenchy/hotclip)  
-`[02/01 01:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/agent-ai](https://github.com/Davenchy/agent-ai)  
-`[02/01 01:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[02/01 01:01]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/agent-ai](https://github.com/Davenchy/agent-ai)  
-`[02/01 00:47]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[02/01 00:45]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Davenchy/agent-ai](https://github.com/Davenchy/agent-ai)  
 
 </details>
 <!--END_SECTION:activity-->
