@@ -197,6 +197,7 @@ C++                      3 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[05/10 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/09 12:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [Davenchy/nvim-config](https://github.com/Davenchy/nvim-config)  
 `[05/09 06:57]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/nvim-config/tree/main) in [Davenchy/nvim-config](https://github.com/Davenchy/nvim-config)  
 `[05/09 06:57]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/nvim-config](https://github.com/Davenchy/nvim-config)  
@@ -206,10 +207,10 @@ C++                      3 repos             █░░░░░░░░░░�
 `[05/07 06:39]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Davenchy/alx-backend](https://github.com/Davenchy/alx-backend)  
 `[05/07 05:42]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
 `[05/07 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[05/06 00:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Davenchy/alx-backend](https://github.com/Davenchy/alx-backend)  
 
 <details><summary>Show More</summary>
 
+`[05/06 00:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Davenchy/alx-backend](https://github.com/Davenchy/alx-backend)  
 `[05/05 23:07]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/alx-backend/tree/main) in [Davenchy/alx-backend](https://github.com/Davenchy/alx-backend)  
 `[05/05 23:07]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/alx-backend](https://github.com/Davenchy/alx-backend)  
 `[05/05 01:18]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
@@ -286,16 +287,6 @@ C++                      3 repos             █░░░░░░░░░░�
 `[03/17 01:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[02/21 08:03]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1466`](https://github.com//phhusson/treble_experimentations/issues/1466 'system  images too large for my device. (umidigi a7 pro)') in [phhusson/treble_experimentations](https://github.com/phhusson/treble_experimentations)  
 `[02/21 01:10]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[02/10 04:26]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abigaliz/krustyfy](https://github.com/abigaliz/krustyfy)  
-`[02/10 04:19]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/deadd_control](https://github.com/Davenchy/deadd_control)  
-`[02/10 04:18]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/ppm-canvas-c](https://github.com/Davenchy/ppm-canvas-c)  
-`[02/10 04:12]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/ppm-canvas-c/tree/main) in [Davenchy/ppm-canvas-c](https://github.com/Davenchy/ppm-canvas-c)  
-`[02/10 04:11]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/ppm-canvas-c](https://github.com/Davenchy/ppm-canvas-c)  
-`[02/10 01:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/deadd_control](https://github.com/Davenchy/deadd_control)  
-`[02/10 01:08]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[02/10 00:37]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/deadd_control](https://github.com/Davenchy/deadd_control)  
-`[02/10 00:16]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/deadd_contorl/tree/main) in [Davenchy/deadd_contorl](https://github.com/Davenchy/deadd_contorl)  
-`[02/10 00:16]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/deadd_contorl](https://github.com/Davenchy/deadd_contorl)  
 
 </details>
 <!--END_SECTION:activity-->
