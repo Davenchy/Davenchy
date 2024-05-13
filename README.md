@@ -197,7 +197,8 @@ C++                      3 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-`[05/11 13:23]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[05/12 10:47]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [Davenchy/nvim-config](https://github.com/Davenchy/nvim-config)  
+`[05/12 01:20]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/09 12:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [Davenchy/nvim-config](https://github.com/Davenchy/nvim-config)  
 `[05/09 06:57]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/nvim-config/tree/main) in [Davenchy/nvim-config](https://github.com/Davenchy/nvim-config)  
 `[05/09 06:57]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/nvim-config](https://github.com/Davenchy/nvim-config)  
@@ -206,10 +207,10 @@ C++                      3 repos             █░░░░░░░░░░�
 `[05/08 01:02]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/07 06:39]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Davenchy/alx-backend](https://github.com/Davenchy/alx-backend)  
 `[05/07 05:42]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
-`[05/07 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 
 <details><summary>Show More</summary>
 
+`[05/07 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/06 00:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Davenchy/alx-backend](https://github.com/Davenchy/alx-backend)  
 `[05/05 23:07]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/alx-backend/tree/main) in [Davenchy/alx-backend](https://github.com/Davenchy/alx-backend)  
 `[05/05 23:07]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/alx-backend](https://github.com/Davenchy/alx-backend)  
@@ -286,7 +287,7 @@ C++                      3 repos             █░░░░░░░░░░�
 `[03/17 20:21]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//Davenchy/general_json_rpc/issues/2 'Q: what permission are needed to run server on the phone?') in [Davenchy/general_json_rpc](https://github.com/Davenchy/general_json_rpc)  
 `[03/17 01:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[02/21 08:03]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1466`](https://github.com//phhusson/treble_experimentations/issues/1466 'system  images too large for my device. (umidigi a7 pro)') in [phhusson/treble_experimentations](https://github.com/phhusson/treble_experimentations)  
-`[02/21 01:10]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[02/21 01:10]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 
 </details>
 <!--END_SECTION:activity-->
