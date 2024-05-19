@@ -110,7 +110,7 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C017%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
@@ -118,9 +118,7 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 
 **🐱 My GitHub Data** 
 
-> 📦 138.4 kB Used in GitHub's Storage 
- > 
-> 🏆 464 Contributions in the Year 2024
+> 📦 138.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -131,21 +129,21 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                744 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-🌆 Daytime                1181 commits        ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-🌃 Evening                1689 commits        ████████░░░░░░░░░░░░░░░░░   32.17 % 
-🌙 Night                  1637 commits        ████████░░░░░░░░░░░░░░░░░   31.18 % 
+🌞 Morning                744 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+🌆 Daytime                1181 commits        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+🌃 Evening                1689 commits        ████████░░░░░░░░░░░░░░░░░   32.15 % 
+🌙 Night                  1639 commits        ████████░░░░░░░░░░░░░░░░░   31.20 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   725 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Monday                   725 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
 Tuesday                  602 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Wednesday                619 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Wednesday                619 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
 Thursday                 730 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Friday                   821 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Saturday                 725 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Sunday                   1029 commits        █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Friday                   821 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Saturday                 725 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Sunday                   1031 commits        █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
 ```
 
 
@@ -192,7 +190,7 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davenchy/Davenchy/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2024 01:15:09 UTC
+ Last Updated on 19/05/2024 01:20:30 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
