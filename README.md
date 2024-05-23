@@ -197,6 +197,9 @@ C++                      3 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[05/22 08:44]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Davenchy/nvim-config](https://github.com/Davenchy/nvim-config)  
+`[05/22 02:31]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Davenchy/alx-backend-user-data](https://github.com/Davenchy/alx-backend-user-data)  
+`[05/22 01:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/22 01:04]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Davenchy/alx-backend-user-data](https://github.com/Davenchy/alx-backend-user-data)  
 `[05/21 15:29]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Davenchy/nvim-config](https://github.com/Davenchy/nvim-config)  
 `[05/21 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
@@ -204,12 +207,12 @@ C++                      3 repos             █░░░░░░░░░░�
 `[05/18 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/17 01:22]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
 `[05/17 01:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[05/17 00:32]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
-`[05/16 22:43]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [Davenchy/alx-backend-user-data](https://github.com/Davenchy/alx-backend-user-data)  
-`[05/16 20:35]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/alx-backend-user-data/tree/main) in [Davenchy/alx-backend-user-data](https://github.com/Davenchy/alx-backend-user-data)  
 
 <details><summary>Show More</summary>
 
+`[05/17 00:32]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
+`[05/16 22:43]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [Davenchy/alx-backend-user-data](https://github.com/Davenchy/alx-backend-user-data)  
+`[05/16 20:35]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/alx-backend-user-data/tree/main) in [Davenchy/alx-backend-user-data](https://github.com/Davenchy/alx-backend-user-data)  
 `[05/16 20:35]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/alx-backend-user-data](https://github.com/Davenchy/alx-backend-user-data)  
 `[05/16 01:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/15 03:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Davenchy/alx-backend](https://github.com/Davenchy/alx-backend)  
@@ -299,12 +302,6 @@ C++                      3 repos             █░░░░░░░░░░�
 `[03/27 03:32]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#218`](https://github.com//dart-lang/native/issues/218 'LibTorrent bindings') in [dart-lang/native](https://github.com/dart-lang/native)  
 `[03/27 03:32]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Reopened issue [`#218`](https://github.com//dart-lang/native/issues/218 'LibTorrent bindings') in [dart-lang/native](https://github.com/dart-lang/native)  
 `[03/27 03:30]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/libtorrent-dart-bindings-example](https://github.com/Davenchy/libtorrent-dart-bindings-example)  
-`[03/27 03:18]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/libtorrent-dart-bindings-example/tree/main) in [Davenchy/libtorrent-dart-bindings-example](https://github.com/Davenchy/libtorrent-dart-bindings-example)  
-`[03/27 03:17]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/libtorrent-dart-bindings-example](https://github.com/Davenchy/libtorrent-dart-bindings-example)  
-`[03/27 01:10]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[03/26 18:21]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#218`](https://github.com//dart-lang/native/issues/218 'LibTorrent bindings') in [dart-lang/native](https://github.com/dart-lang/native)  
-`[03/26 18:08]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#218`](https://github.com//dart-lang/native/issues/218 'LibTorrent bindings') in [dart-lang/native](https://github.com/dart-lang/native)  
-`[03/26 01:10]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 
 </details>
 <!--END_SECTION:activity-->
