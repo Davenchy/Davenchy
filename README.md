@@ -72,7 +72,7 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 <img width="100%" align="middle" src="https://github-profile-trophy.vercel.app/?username=Davenchy&theme=discord&no-frame=true&no-bg=true&row=1&column=7" />
 
 ## Favorite Projects
-
+[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=qemu-arm-machine)](https://github.com/Davenchy/qemu-arm-machine)
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=service_generator)](https://github.com/Davenchy/service_generator)
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=agent-ai)](https://github.com/Davenchy/agent-ai)
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=zellij-wrapper)](https://github.com/Davenchy/zellij-wrapper)
