@@ -199,6 +199,8 @@ Lua                      5 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[06/12 16:26]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
+`[06/12 01:19]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/11 18:11]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/11 16:45]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `depfu/update/npm/nodemon-2.0.7` from [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/11 16:45]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `depfu/update/npm/vuepress-1.8.0` from [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
@@ -207,11 +209,11 @@ Lua                      5 repos             █░░░░░░░░░░�
 `[06/11 16:45]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `depfu/update/npm/eslint-config-prettier-6.15.0` from [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/11 16:45]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `depfu/update/npm/update-notifier-4.1.3` from [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/11 16:45]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `depfu/update/npm/eslint-plugin-import-2.22.1` from [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
-`[06/11 16:45]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `depfu/update/npm/group/vue-2.6.12` from [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
-`[06/11 16:44]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#80`](https://github.com//Davenchy/live-torrent-backend/pull/80 'Update nodemon: 2.0.4 → 2.0.7 (patch)') in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 
 <details><summary>Show More</summary>
 
+`[06/11 16:45]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `depfu/update/npm/group/vue-2.6.12` from [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
+`[06/11 16:44]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#80`](https://github.com//Davenchy/live-torrent-backend/pull/80 'Update nodemon: 2.0.4 → 2.0.7 (patch)') in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/11 16:43]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#76`](https://github.com//Davenchy/live-torrent-backend/pull/76 'Bump urijs from 1.19.2 to 1.19.5') in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/11 16:44]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#79`](https://github.com//Davenchy/live-torrent-backend/pull/79 'Update vuepress: 1.5.3 → 1.8.0 (minor)') in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/11 16:43]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#77`](https://github.com//Davenchy/live-torrent-backend/pull/77 '🚨 [security] Upgrade axios: 0.19.2 → 0.21.1 (major)') in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
@@ -303,8 +305,7 @@ Lua                      5 repos             █░░░░░░░░░░�
 `[05/05 01:18]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/03 08:44]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
 `[05/03 01:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[05/03 01:09]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
-`[05/02 13:50]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/todo-backend-nodejs](https://github.com/Davenchy/todo-backend-nodejs)  
+`[05/03 01:09]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
 
 </details>
 <!--END_SECTION:activity-->
