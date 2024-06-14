@@ -111,15 +111,17 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C096%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C105%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-883.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 136.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 667 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -192,7 +194,7 @@ Lua                      5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davenchy/Davenchy/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2024 01:19:13 UTC
+ Last Updated on 14/06/2024 01:18:59 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
