@@ -196,9 +196,19 @@ Lua                      5 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-`[06/14 01:19]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[06/16 23:28]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1`](https://github.com//Davenchy/Davenchy/pull/1 '⬆️ Bump dailydotdev/action-devcard from 2.1.0 to 2.2.0') in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[06/16 23:20]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
+`[06/16 14:52]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#71`](https://github.com//Davenchy/live-torrent-backend/issues/71 'heroku docs is down') in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
+`[06/16 14:52]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#71`](https://github.com//Davenchy/live-torrent-backend/issues/71 'heroku docs is down') in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
+`[06/16 06:33]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
+`[06/16 06:20]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
+`[06/16 02:06]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
+`[06/16 01:24]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/12 16:26]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/12 01:19]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+
+<details><summary>Show More</summary>
+
 `[06/11 18:11]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/11 16:45]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `depfu/update/npm/nodemon-2.0.7` from [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/11 16:45]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `depfu/update/npm/vuepress-1.8.0` from [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
@@ -206,9 +216,6 @@ Lua                      5 repos             █░░░░░░░░░░�
 `[06/11 16:45]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `depfu/update/npm/eslint-plugin-standard-4.1.0` from [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/11 16:45]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `depfu/update/npm/eslint-config-prettier-6.15.0` from [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/11 16:45]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `depfu/update/npm/update-notifier-4.1.3` from [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
-
-<details><summary>Show More</summary>
-
 `[06/11 16:45]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `depfu/update/npm/eslint-plugin-import-2.22.1` from [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/11 16:45]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `depfu/update/npm/group/vue-2.6.12` from [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/11 16:44]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#80`](https://github.com//Davenchy/live-torrent-backend/pull/80 'Update nodemon: 2.0.4 → 2.0.7 (patch)') in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
@@ -299,9 +306,6 @@ Lua                      5 repos             █░░░░░░░░░░�
 `[05/07 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/06 00:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Davenchy/alx-backend](https://github.com/Davenchy/alx-backend)  
 `[05/05 23:07]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/alx-backend/tree/main) in [Davenchy/alx-backend](https://github.com/Davenchy/alx-backend)  
-`[05/05 23:07]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/alx-backend](https://github.com/Davenchy/alx-backend)  
-`[05/05 01:18]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[05/03 08:44]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
 
 </details>
 <!--END_SECTION:activity-->
