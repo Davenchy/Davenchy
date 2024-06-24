@@ -197,6 +197,7 @@ Lua                      5 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[06/23 01:23]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/22 21:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Davenchy/nvim-config](https://github.com/Davenchy/nvim-config)  
 `[06/22 01:18]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/16 23:34]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#118`](https://github.com//Davenchy/live-torrent/pull/118 'Bump postcss from 8.4.24 to 8.4.31') in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
@@ -206,10 +207,10 @@ Lua                      5 repos             █░░░░░░░░░░�
 `[06/16 23:20]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/16 14:52]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#71`](https://github.com//Davenchy/live-torrent-backend/issues/71 'heroku docs is down') in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/16 14:52]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#71`](https://github.com//Davenchy/live-torrent-backend/issues/71 'heroku docs is down') in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
-`[06/16 06:33]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 
 <details><summary>Show More</summary>
 
+`[06/16 06:33]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/16 06:20]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
 `[06/16 02:06]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/16 01:24]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
@@ -307,7 +308,7 @@ Lua                      5 repos             █░░░░░░░░░░�
 `[05/09 01:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/08 22:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-backend](https://github.com/Davenchy/alx-backend)  
 `[05/08 01:02]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[05/07 06:39]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-backend](https://github.com/Davenchy/alx-backend)  
+`[05/07 06:39]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-backend](https://github.com/Davenchy/alx-backend)  
 
 </details>
 <!--END_SECTION:activity-->
