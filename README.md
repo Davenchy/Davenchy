@@ -198,7 +198,7 @@ Lua                      5 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-`[06/24 12:22]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[06/24 18:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/22 21:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Davenchy/nvim-config](https://github.com/Davenchy/nvim-config)  
 `[06/22 01:18]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/16 23:34]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#118`](https://github.com//Davenchy/live-torrent/pull/118 'Bump postcss from 8.4.24 to 8.4.31') in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
@@ -307,7 +307,7 @@ Lua                      5 repos             █░░░░░░░░░░�
 `[05/09 06:57]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/nvim-config/tree/main) in [Davenchy/nvim-config](https://github.com/Davenchy/nvim-config)  
 `[05/09 06:57]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/nvim-config](https://github.com/Davenchy/nvim-config)  
 `[05/09 01:14]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[05/08 22:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/alx-backend](https://github.com/Davenchy/alx-backend)  
+`[05/08 22:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-backend](https://github.com/Davenchy/alx-backend)  
 
 </details>
 <!--END_SECTION:activity-->
