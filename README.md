@@ -123,8 +123,6 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 
 > 📦 134.7 kB Used in GitHub's Storage 
  > 
-> 🏆 694 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 103 Public Repositories 
@@ -193,7 +191,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davenchy/Davenchy/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2024 12:23:30 UTC
+ Last Updated on 12/07/2024 18:16:08 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
