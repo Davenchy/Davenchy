@@ -198,7 +198,8 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-`[07/13 06:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `67` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[07/13 15:24]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Martichou/rquickshare](https://github.com/Martichou/rquickshare)  
+`[07/13 12:19]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `68` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/25 01:29]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/rusty_battleship](https://github.com/Davenchy/rusty_battleship)  
 `[06/25 01:27]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/rusty_battleship/tree/main) in [Davenchy/rusty_battleship](https://github.com/Davenchy/rusty_battleship)  
 `[06/25 01:27]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/rusty_battleship](https://github.com/Davenchy/rusty_battleship)  
@@ -207,10 +208,10 @@ Rust                     2 repos             █░░░░░░░░░░�
 `[06/22 01:18]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/16 23:34]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#118`](https://github.com//Davenchy/live-torrent/pull/118 'Bump postcss from 8.4.24 to 8.4.31') in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
 `[06/16 23:34]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#117`](https://github.com//Davenchy/live-torrent/pull/117 'Bump word-wrap from 1.2.3 to 1.2.4') in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
-`[06/16 23:31]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 
 <details><summary>Show More</summary>
 
+`[06/16 23:31]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/16 23:28]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1`](https://github.com//Davenchy/Davenchy/pull/1 '⬆️ Bump dailydotdev/action-devcard from 2.1.0 to 2.2.0') in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/16 23:20]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/16 14:52]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#71`](https://github.com//Davenchy/live-torrent-backend/issues/71 'heroku docs is down') in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
@@ -288,7 +289,6 @@ Rust                     2 repos             █░░░░░░░░░░�
 `[05/21 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/19 01:12]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/alx-backend-user-data](https://github.com/Davenchy/alx-backend-user-data)  
 `[05/18 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[05/17 01:22]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
 
 </details>
 <!--END_SECTION:activity-->
