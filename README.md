@@ -197,7 +197,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-`[07/20 18:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[07/21 00:55]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/19 18:42]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MarwanElZaher/project-management-app](https://github.com/MarwanElZaher/project-management-app)  
 `[07/19 18:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/13 15:24]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Martichou/rquickshare](https://github.com/Martichou/rquickshare)  
@@ -284,7 +284,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 `[05/24 00:12]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
 `[05/23 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/22 08:44]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Davenchy/nvim-config](https://github.com/Davenchy/nvim-config)  
-`[05/22 02:31]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/alx-backend-user-data](https://github.com/Davenchy/alx-backend-user-data)  
+`[05/22 02:31]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-backend-user-data](https://github.com/Davenchy/alx-backend-user-data)  
 
 </details>
 <!--END_SECTION:activity-->
