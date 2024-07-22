@@ -197,6 +197,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[07/22 12:23]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[07/22 11:21]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[07/22 10:11]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/nvim-config](https://github.com/Davenchy/nvim-config)  
 `[07/22 06:18]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
@@ -206,10 +207,10 @@ Rust                     2 repos             █░░░░░░░░░░�
 `[07/13 12:19]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `68` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/25 01:29]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/rusty_battleship](https://github.com/Davenchy/rusty_battleship)  
 `[06/25 01:27]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Davenchy/rusty_battleship/tree/main) in [Davenchy/rusty_battleship](https://github.com/Davenchy/rusty_battleship)  
-`[06/25 01:27]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/rusty_battleship](https://github.com/Davenchy/rusty_battleship)  
 
 <details><summary>Show More</summary>
 
+`[06/25 01:27]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Davenchy/rusty_battleship](https://github.com/Davenchy/rusty_battleship)  
 `[06/25 00:50]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/22 21:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Davenchy/nvim-config](https://github.com/Davenchy/nvim-config)  
 `[06/22 01:18]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
@@ -282,7 +283,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 `[05/25 01:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[05/24 02:46]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Davenchy/alx-backend-user-data](https://github.com/Davenchy/alx-backend-user-data)  
 `[05/24 01:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[05/24 01:11]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Davenchy/alx-backend-user-data](https://github.com/Davenchy/alx-backend-user-data)  
+`[05/24 01:11]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Davenchy/alx-backend-user-data](https://github.com/Davenchy/alx-backend-user-data)  
 
 </details>
 <!--END_SECTION:activity-->
