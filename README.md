@@ -113,7 +113,7 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C172%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C172%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -123,7 +123,7 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 
 > 📦 135.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 709 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -182,11 +182,11 @@ Linux                    23 hrs 36 mins      ███████████�
 **I Mostly Code in Dart** 
 
 ```text
-Python                   15 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-C                        15 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Shell                    8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Lua                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Python                   15 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+C                        15 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Shell                    8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Lua                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 ```
 
 
@@ -196,7 +196,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davenchy/Davenchy/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2024 12:21:42 UTC
+ Last Updated on 26/07/2024 18:16:56 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
