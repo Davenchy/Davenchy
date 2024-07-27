@@ -1,5 +1,5 @@
 <p align="center"><img alt="Hello My Friend!" src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&pause=1000&lines=Hello+My+Friend!" /></p>
-<h1 align="center">Hi 👋, I'm Davenchy</h1>
+<h1 align="center">Hi 👋, I'm Fadi Asaad</h1>
 <h3 align="center">A passionate software engineer</h3>
 
 <hr />
