@@ -105,7 +105,7 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
  
 <img  width="400vw" src="https://github-readme-stats.vercel.app/api/wakatime?username=davenchy&theme=radical&hide_border=true&show_icons=true&bg_color=00000000&layout=compact"/>
  <br/>
-<img width="400vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=16&card_width=500&show_icons=true&bg_color=00000000&hide=html,css,vue"/>
+<img width="400vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8&card_width=500&show_icons=true&bg_color=00000000&hide=html,css,vue"/>
  <br/>
 
  </div>
