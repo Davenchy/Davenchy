@@ -200,6 +200,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[08/02 00:53]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[08/02 00:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
 `[08/01 18:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[08/01 18:00]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feature/create-redis-client` from [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
@@ -209,10 +210,10 @@ Rust                     3 repos             █░░░░░░░░░░�
 `[08/01 17:59]` <img alt="🔍" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#7`](https://github.com//Davenchy/alx-files_manager/pull/7 'fix: change quote style to single') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
 `[08/01 17:58]` <img alt="✅" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#8`](https://github.com//Davenchy/alx-files_manager/pull/8 'implement RedisClient class') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
 `[08/01 17:49]` <img alt="🔍" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6`](https://github.com//Davenchy/alx-files_manager/pull/6 'implement RedisClient class') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
-`[08/01 17:47]` <img alt="🔍" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6`](https://github.com//Davenchy/alx-files_manager/pull/6 'implement RedisClient class') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
 
 <details><summary>Show More</summary>
 
+`[08/01 17:47]` <img alt="🔍" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6`](https://github.com//Davenchy/alx-files_manager/pull/6 'implement RedisClient class') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
 `[08/01 12:29]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[08/01 11:59]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`dev`](https://github.com/Davenchy/alx-files_manager/tree/dev) in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
 `[08/01 11:59]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dev` from [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
@@ -306,7 +307,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 `[06/07 01:20]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/07 01:20]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
 `[06/06 01:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[06/04 18:42]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
+`[06/04 18:42]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
 
 </details>
 <!--END_SECTION:activity-->
