@@ -113,17 +113,17 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C193%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C195%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-828.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-873.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 135.3 kB Used in GitHub's Storage 
+> 📦 135.4 kB Used in GitHub's Storage 
  > 
-> 🏆 765 Contributions in the Year 2024
+> 🏆 794 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -134,21 +134,21 @@ Hi there! I'm Fadi Asaad, a curious learner who loves exploring different tech a
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                543 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-🌆 Daytime                823 commits         ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-🌃 Evening                1208 commits        ████████░░░░░░░░░░░░░░░░░   32.59 % 
-🌙 Night                  1133 commits        ████████░░░░░░░░░░░░░░░░░   30.56 % 
+🌞 Morning                554 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+🌆 Daytime                873 commits         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+🌃 Evening                1209 commits        ████████░░░░░░░░░░░░░░░░░   32.02 % 
+🌙 Night                  1140 commits        ████████░░░░░░░░░░░░░░░░░   30.19 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   532 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Tuesday                  595 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Wednesday                572 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Thursday                 639 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Friday                   552 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Saturday                 374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Sunday                   443 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Monday                   532 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Tuesday                  595 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Wednesday                572 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Thursday                 647 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Friday                   552 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Saturday                 435 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Sunday                   443 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
 ```
 
 
@@ -195,7 +195,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davenchy/Davenchy/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2024 12:20:59 UTC
+ Last Updated on 03/08/2024 18:16:36 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Activity
