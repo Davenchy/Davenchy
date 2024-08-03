@@ -200,7 +200,19 @@ Rust                     3 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-`[08/02 12:22]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[08/03 00:48]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feature/11-1-mongodb-utils`](https://github.com/Davenchy/alx-files_manager/tree/feature/11-1-mongodb-utils) in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
+`[08/03 00:47]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feature/11-1-mongodb-utils` from [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
+`[08/03 00:45]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feature/11-1-mongodb-utils`](https://github.com/Davenchy/alx-files_manager/tree/feature/11-1-mongodb-utils) in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
+`[08/03 00:45]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#11`](https://github.com//Davenchy/alx-files_manager/issues/11 '1. MongoDB utils') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
+`[08/03 00:41]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#10`](https://github.com//Davenchy/alx-files_manager/issues/10 '0. Redis utils') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
+`[08/02 22:34]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feature/create-status-stats-endpoints` from [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
+`[08/02 22:34]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
+`[08/02 22:34]` <img alt="🎉" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#9`](https://github.com//Davenchy/alx-files_manager/pull/9 'Feature/create status stats endpoints') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
+`[08/02 22:34]` <img alt="🔍" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#9`](https://github.com//Davenchy/alx-files_manager/pull/9 'Feature/create status stats endpoints') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
+`[08/02 18:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+
+<details><summary>Show More</summary>
+
 `[08/02 00:15]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-interview](https://github.com/Davenchy/alx-interview)  
 `[08/01 18:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[08/01 18:00]` <img alt="❌" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feature/create-redis-client` from [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
@@ -210,9 +222,6 @@ Rust                     3 repos             █░░░░░░░░░░�
 `[08/01 17:59]` <img alt="🔍" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#7`](https://github.com//Davenchy/alx-files_manager/pull/7 'fix: change quote style to single') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
 `[08/01 17:58]` <img alt="✅" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#8`](https://github.com//Davenchy/alx-files_manager/pull/8 'implement RedisClient class') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
 `[08/01 17:49]` <img alt="🔍" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6`](https://github.com//Davenchy/alx-files_manager/pull/6 'implement RedisClient class') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
-
-<details><summary>Show More</summary>
-
 `[08/01 17:47]` <img alt="🔍" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6`](https://github.com//Davenchy/alx-files_manager/pull/6 'implement RedisClient class') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
 `[08/01 12:29]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[08/01 11:59]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`dev`](https://github.com/Davenchy/alx-files_manager/tree/dev) in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
@@ -307,7 +316,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 `[06/07 01:20]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[06/07 01:20]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
 `[06/06 01:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[06/04 18:42]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
+`[06/04 18:42]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/alx-backend-javascript](https://github.com/Davenchy/alx-backend-javascript)  
 
 </details>
 <!--END_SECTION:activity-->
