@@ -200,6 +200,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[08/03 18:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[08/03 15:25]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#19`](https://github.com//Davenchy/alx-files_manager/issues/19 'Task 3 test cases has some fails') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
 `[08/03 15:25]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#19`](https://github.com//Davenchy/alx-files_manager/issues/19 'Task 3 test cases has some fails') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
 `[08/03 15:24]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#24`](https://github.com//Davenchy/alx-files_manager/issues/24 'remove: `body-parser` package and user `express.json()`') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
@@ -209,10 +210,10 @@ Rust                     3 repos             █░░░░░░░░░░�
 `[08/03 15:19]` <img alt="✅" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#24`](https://github.com//Davenchy/alx-files_manager/pull/24 'remove: `body-parser` package and user `express.json()`') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
 `[08/03 15:18]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
 `[08/03 15:17]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`hotfix/test-cases`](https://github.com/Davenchy/alx-files_manager/tree/hotfix/test-cases) in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
-`[08/03 14:40]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#18`](https://github.com//Davenchy/alx-files_manager/issues/18 'A few test cases of task `2. First API` are not passing') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
 
 <details><summary>Show More</summary>
 
+`[08/03 14:40]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#18`](https://github.com//Davenchy/alx-files_manager/issues/18 'A few test cases of task `2. First API` are not passing') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
 `[08/03 14:40]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
 `[08/03 14:40]` <img alt="🎉" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#23`](https://github.com//Davenchy/alx-files_manager/pull/23 'fix status and stats controllers names & uses res.json middleware') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
 `[08/03 14:40]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
@@ -340,7 +341,6 @@ Rust                     3 repos             █░░░░░░░░░░�
 `[06/16 06:20]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
 `[06/16 02:06]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/16 01:24]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
-`[06/12 16:26]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 
 </details>
 <!--END_SECTION:activity-->
