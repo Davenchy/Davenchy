@@ -200,7 +200,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-`[08/03 18:16]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[08/04 00:57]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 `[08/03 15:25]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#19`](https://github.com//Davenchy/alx-files_manager/issues/19 'Task 3 test cases has some fails') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
 `[08/03 15:25]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#19`](https://github.com//Davenchy/alx-files_manager/issues/19 'Task 3 test cases has some fails') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
 `[08/03 15:24]` <img alt="🗣" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#24`](https://github.com//Davenchy/alx-files_manager/issues/24 'remove: `body-parser` package and user `express.json()`') in [Davenchy/alx-files_manager](https://github.com/Davenchy/alx-files_manager)  
@@ -340,7 +340,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 `[06/16 06:33]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
 `[06/16 06:20]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent)  
 `[06/16 02:06]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)  
-`[06/16 01:24]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
+`[06/16 01:24]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Davenchy/Davenchy](https://github.com/Davenchy/Davenchy)  
 
 </details>
 <!--END_SECTION:activity-->
