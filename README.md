@@ -65,6 +65,7 @@ Passionate software engineer and tech enthusiast diving deep into the realms of 
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=service_generator)](https://github.com/Davenchy/service_generator)
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=pc-remote)](https://github.com/Davenchy/pc-remote)
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=hotclip)](https://github.com/Davenchy/hotclip)
+[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=timer_sh)](https://github.com/Davenchy/timer_sh)
 
  
 ## 📊 GitHub Stats:
@@ -78,7 +79,7 @@ Passionate software engineer and tech enthusiast diving deep into the realms of 
  
 <img  width="400vw" src="https://github-readme-stats.vercel.app/api/wakatime?username=davenchy&theme=radical&hide_border=true&show_icons=true&bg_color=00000000&layout=compact"/>
  <br/>
-<img width="400vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8&card_width=500&show_icons=true&bg_color=00000000&hide=html,css,vue"/>
+<img width="400vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=500&show_icons=true&bg_color=00000000&hide=html,css,vue"/>
  <br/>
 
  </div>
