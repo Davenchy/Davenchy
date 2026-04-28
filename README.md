@@ -8,7 +8,7 @@ Passionate software engineer and tech enthusiast diving deep into the realms of 
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/fadi-asaad" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin-alt.svg" alt="linkedin" height="30" width="40" />
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" />
 </a>
 
 <h3 align="left">Languages and Tools: I use Arch BTW 😜</h3>
@@ -32,15 +32,15 @@ Passionate software engineer and tech enthusiast diving deep into the realms of 
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub stats[...]" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub stats" />
 
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Davenchy&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub streak" />
 
   <br/>
 
-  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Davenchy&theme=radical&hide_border=true&show_icons=true&bg_color=00000000&layout=compact&langs_count=10" alt="W[...]" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Davenchy&theme=radical&hide_border=true&show_icons=true&bg_color=00000000&layout=compact&langs_count=10" alt="Wakatime stats" />
 
   <br/>
 
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="[...]" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top languages" />
 </div>
