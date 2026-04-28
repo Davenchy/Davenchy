@@ -1,6 +1,6 @@
 <h1 align="center">I'm Fadi Asaad</h1>
 
-Passionate software engineer and tech enthusiast diving deep into the realms of software engineering. Currently studying Software Engineering through the ALX Software Engineer track and DevOps through [...]
+Passionate software engineer and tech enthusiast diving deep into the realms of software engineering.
 
 ⚡ A fact about me: **I love diving deep into the mechanics of technology and understanding how things work under the hood**
 
