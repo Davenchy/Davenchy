@@ -13,7 +13,7 @@ Passionate software engineer and tech enthusiast diving deep into the realms of 
 
 <h3 align="left">Languages and Tools: I use Arch BTW 😜</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,python,sqlite,c,cpp,js,ts,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=arch,arduino,bash,bun,c,cpp,deno,docker,express,git,go,js,linux,neovim,nodejs,pnpm,postgres,python,react,redis,rust,sqlite,ts" />
 </div>
 
 ## 🏆 GitHub Trophies
