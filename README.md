@@ -22,6 +22,8 @@ Passionate software engineer and tech enthusiast diving deep into the realms of 
 ## Favorite Projects
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=live-torrent-backend)](https://github.com/Davenchy/live-torrent-backend)
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=media-share)](https://github.com/Davenchy/media-share)
+[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=clayout)](https://github.com/Davenchy/clayout)
+[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=brainfuck_compiler.rs)](https://github.com/Davenchy/brainfuck_compiler.rs)
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=qemu-arm-machine)](https://github.com/Davenchy/qemu-arm-machine)
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=rusty_battleship)](https://github.com/Davenchy/rusty_battleship)
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=service_generator)](https://github.com/Davenchy/service_generator)
