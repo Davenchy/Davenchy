@@ -38,12 +38,84 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card for the CLayout repo
+      - name: Generate pin card for live-torrent-backend repo
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=live-torrent-backend
+          path: profile/live-torrent-backend-pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card for media-share repo
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=media-share
+          path: profile/media-share-pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card for clayout repo
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=clayout
           path: profile/clayout-pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card for brainfuck_compiler.rs repo
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=brainfuck_compiler.rs
+          path: profile/brainfuck_compiler.rs-pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card for qemu-arm-machine repo
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=qemu-arm-machine
+          path: profile/qemu-arm-machine-pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card for rusty_battleship repo
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=rusty_battleship
+          path: profile/rusty_battleship-pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card for service_generator repo
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=service_generator
+          path: profile/service_generator-pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card for pc-remote repo
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=pc-remote
+          path: profile/pc-remote-pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card for hotclip repo
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=hotclip
+          path: profile/hotclip-pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card for timer_sh repo
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=timer_sh
+          path: profile/timer_sh-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
