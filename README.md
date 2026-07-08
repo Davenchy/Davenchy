@@ -23,7 +23,7 @@ Passionate software engineer and tech enthusiast diving deep into the realms of 
 
 ## 🏆 GitHub Trophies
 <div align="middle">
-  ![GitHub trophies](./profile/trophy.svg)
+  <img alt="GitHub Trophy" src="./profile/trophy.svg" />
 </div>
 
 ## Favorite Projects
