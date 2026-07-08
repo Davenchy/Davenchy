@@ -2,35 +2,69 @@ name: Update Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0/6 * * *'
+    - cron: '0 0 * * *'
 jobs:
-  devcard:
+  stats:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    permissions: write-all
     steps:
-      - name: devcard
-        uses: dailydotdev/action-devcard@2.1.0
+      - uses: actions/checkout@v6
+      
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          devcard_id: ${{ secrets.DEVCARD_ID }}
-  recent-activity:
-    name: Update Readme with Recent Activity
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: BrandgrandRealMe/github-activity-readme@v0.3.8
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          card: stats
+          options: theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          COMMIT_MSG: 'Update Recent Activity'
-  waka-metrics:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
+          card: stats
+          options: theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_UPDATED_DATE: True
-          SHOW_LINES_OF_CODE: True
-          
+          card: pin
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=clayout
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "davenchy-bot@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards [WORKFLOW_ACTION]" || exit 0
+          git push
+  # devcard:
+  #   runs-on: ubuntu-latest
+  #   permissions:
+  #     contents: write
+  #   steps:
+  #     - name: devcard
+  #       uses: dailydotdev/action-devcard@2.1.0
+  #       with:
+  #         devcard_id: ${{ secrets.DEVCARD_ID }}
+  # recent-activity:
+  #   name: Update Readme with Recent Activity
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v3
+  #     - uses: BrandgrandRealMe/github-activity-readme@v0.3.8
+  #       env:
+  #         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  #       with:
+  #         COMMIT_MSG: 'Update Recent Activity'
+  # waka-metrics:
+  #   name: Update Readme with Metrics
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: anmol098/waka-readme-stats@master
+  #       with:
+  #         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+  #         GH_TOKEN: ${{ secrets.GH_TOKEN }}
+  #         SHOW_UPDATED_DATE: True
+  #         SHOW_LINES_OF_CODE: True
+  
