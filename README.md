@@ -13,7 +13,9 @@ Passionate software engineer and tech enthusiast diving deep into the realms of 
 
 <h3 align="left">Languages and Tools: I use Arch BTW 😜</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arch,linux,bash,neovim,git,docker,arduino,c,cpp,go,python,rust,js,ts,bun,deno,nodejs,express,react,pnpm,postgres,sqlite,redis" />
+  <img src="https://skillicons.dev/icons?i=arch,linux,bash,neovim,git,docker,arduino" /><br />
+  <img src="https://skillicons.dev/icons?i=c,go,python,rust,js,ts" /><br />
+  <img src="https://skillicons.dev/icons?i=bun,nodejs,express,react,pnpm,postgres,sqlite,redis" />
 </div>
 
 ## 🏆 GitHub Trophies
