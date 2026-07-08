@@ -25,17 +25,16 @@ Passionate software engineer and tech enthusiast diving deep into the realms of 
 <img width="100%" align="middle" src="https://github-profile-trophy.vercel.app/?username=Davenchy&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
 
 ## Favorite Projects
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=live-torrent-backend)](https://github.com/Davenchy/live-torrent-backend)
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=media-share)](https://github.com/Davenchy/media-share)
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=clayout)](https://github.com/Davenchy/clayout)
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=brainfuck_compiler.rs)](https://github.com/Davenchy/brainfuck_compiler.rs)
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=qemu-arm-machine)](https://github.com/Davenchy/qemu-arm-machine)
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=rusty_battleship)](https://github.com/Davenchy/rusty_battleship)
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=service_generator)](https://github.com/Davenchy/service_generator)
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=pc-remote)](https://github.com/Davenchy/pc-remote)
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=hotclip)](https://github.com/Davenchy/hotclip)
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=timer_sh)](https://github.com/Davenchy/timer_sh)
+[![](./profile/live-torrent-backend-pin.svg)](https://github.com/Davenchy/live-torrent-backend)
+[![](./profile/media-share-pin.svg)](https://github.com/Davenchy/media-share)
 [![](./profile/clayout-pin.svg)](https://github.com/Davenchy/clayout)
+[![](./profile/brainfuck_compiler.rs-pin.svg)](https://github.com/Davenchy/brainfuck_compiler.rs)
+[![](./profile/qemu-arm-machine-pin.svg)](https://github.com/Davenchy/qemu-arm-machine)
+[![](./profile/rusty_battleship-pin.svg)](https://github.com/Davenchy/rusty_battleship)
+[![](./profile/service_generator-pin.svg)](https://github.com/Davenchy/service_generator)
+[![](./profile/pc-remote-pin.svg)](https://github.com/Davenchy/pc-remote)
+[![](./profile/hotclip-pin.svg)](https://github.com/Davenchy/hotclip)
+[![](./profile/timer_sh-pin.svg)](https://github.com/Davenchy/timer_sh)
 
 ## 📊 GitHub Stats:
 
