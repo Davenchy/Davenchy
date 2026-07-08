@@ -27,16 +27,16 @@ Passionate software engineer and tech enthusiast diving deep into the realms of 
 </div>
 
 ## Favorite Projects
-[![live-torrent-backend](./profile/live-torrent-backend-pin.svg)](https://github.com/Davenchy/live-torrent-backend)
-[![media-share](./profile/media-share-pin.svg)](https://github.com/Davenchy/media-share)
-[![clayout](./profile/clayout-pin.svg)](https://github.com/Davenchy/clayout)
-[![brainfuck_compiler.rs](./profile/brainfuck_compiler.rs-pin.svg)](https://github.com/Davenchy/brainfuck_compiler.rs)
-[![qemu-arm-machine](./profile/qemu-arm-machine-pin.svg)](https://github.com/Davenchy/qemu-arm-machine)
-[![rusty_battleship](./profile/rusty_battleship-pin.svg)](https://github.com/Davenchy/rusty_battleship)
-[![service_generator](./profile/service_generator-pin.svg)](https://github.com/Davenchy/service_generator)
-[![pc-remote](./profile/pc-remote-pin.svg)](https://github.com/Davenchy/pc-remote)
-[![hotclip](./profile/hotclip-pin.svg)](https://github.com/Davenchy/hotclip)
-[![timer_sh](./profile/timer_sh-pin.svg)](https://github.com/Davenchy/timer_sh)
+[![live-torrent-backend](./profile/repos/live-torrent-backend-pin.svg)](https://github.com/Davenchy/live-torrent-backend)
+[![media-share](./profile/repos/media-share-pin.svg)](https://github.com/Davenchy/media-share)
+[![clayout](./profile/repos/clayout-pin.svg)](https://github.com/Davenchy/clayout)
+[![brainfuck_compiler.rs](./profile/repos/brainfuck_compiler.rs-pin.svg)](https://github.com/Davenchy/brainfuck_compiler.rs)
+[![qemu-arm-machine](./profile/repos/qemu-arm-machine-pin.svg)](https://github.com/Davenchy/qemu-arm-machine)
+[![rusty_battleship](./profile/repos/rusty_battleship-pin.svg)](https://github.com/Davenchy/rusty_battleship)
+[![service_generator](./profile/repos/service_generator-pin.svg)](https://github.com/Davenchy/service_generator)
+[![pc-remote](./profile/repos/pc-remote-pin.svg)](https://github.com/Davenchy/pc-remote)
+[![hotclip](./profile/repos/hotclip-pin.svg)](https://github.com/Davenchy/hotclip)
+[![timer_sh](./profile/repos/timer_sh-pin.svg)](https://github.com/Davenchy/timer_sh)
 
 ## 📊 GitHub Stats:
 

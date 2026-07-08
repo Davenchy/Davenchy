@@ -50,7 +50,7 @@ jobs:
         with:
           card: pin
           options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=2&repo=live-torrent-backend
-          path: profile/live-torrent-backend-pin.svg
+          path: profile/repos/live-torrent-backend-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for media-share repo
@@ -58,7 +58,7 @@ jobs:
         with:
           card: pin
           options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=2&repo=media-share
-          path: profile/media-share-pin.svg
+          path: profile/repos/media-share-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for clayout repo
@@ -66,7 +66,7 @@ jobs:
         with:
           card: pin
           options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=2&repo=clayout
-          path: profile/clayout-pin.svg
+          path: profile/repos/clayout-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for brainfuck_compiler.rs repo
@@ -74,7 +74,7 @@ jobs:
         with:
           card: pin
           options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=2&repo=brainfuck_compiler.rs
-          path: profile/brainfuck_compiler.rs-pin.svg
+          path: profile/repos/brainfuck_compiler.rs-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for qemu-arm-machine repo
@@ -82,7 +82,7 @@ jobs:
         with:
           card: pin
           options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=2&repo=qemu-arm-machine
-          path: profile/qemu-arm-machine-pin.svg
+          path: profile/repos/qemu-arm-machine-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for rusty_battleship repo
@@ -90,7 +90,7 @@ jobs:
         with:
           card: pin
           options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=2&repo=rusty_battleship
-          path: profile/rusty_battleship-pin.svg
+          path: profile/repos/rusty_battleship-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for service_generator repo
@@ -98,7 +98,7 @@ jobs:
         with:
           card: pin
           options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=1&repo=service_generator
-          path: profile/service_generator-pin.svg
+          path: profile/repos/service_generator-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for pc-remote repo
@@ -106,7 +106,7 @@ jobs:
         with:
           card: pin
           options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=1&repo=pc-remote
-          path: profile/pc-remote-pin.svg
+          path: profile/repos/pc-remote-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for hotclip repo
@@ -114,7 +114,7 @@ jobs:
         with:
           card: pin
           options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=3&repo=hotclip
-          path: profile/hotclip-pin.svg
+          path: profile/repos/hotclip-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for timer_sh repo
@@ -122,14 +122,14 @@ jobs:
         with:
           card: pin
           options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=3&repo=timer_sh
-          path: profile/timer_sh-pin.svg
+          path: profile/repos/timer_sh-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "davenchy-bot@users.noreply.github.com"
-          git add profile/*.svg
+          git add profile/**/*.svg
           git commit -m "Update README cards [WORKFLOW_ACTION]" || exit 0
           git push
   # devcard:
