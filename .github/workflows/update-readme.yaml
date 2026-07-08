@@ -42,7 +42,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=live-torrent-backend
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=2&repo=live-torrent-backend
           path: profile/live-torrent-backend-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -50,7 +50,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=media-share
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=2&repo=media-share
           path: profile/media-share-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -58,7 +58,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=clayout
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=2&repo=clayout
           path: profile/clayout-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -66,7 +66,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=brainfuck_compiler.rs
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=2&repo=brainfuck_compiler.rs
           path: profile/brainfuck_compiler.rs-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -74,7 +74,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=qemu-arm-machine
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=2&repo=qemu-arm-machine
           path: profile/qemu-arm-machine-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -82,7 +82,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=rusty_battleship
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=2&repo=rusty_battleship
           path: profile/rusty_battleship-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -90,7 +90,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=service_generator
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=1&repo=service_generator
           path: profile/service_generator-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -98,7 +98,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=pc-remote
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=1&repo=pc-remote
           path: profile/pc-remote-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -106,7 +106,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=hotclip
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=3&repo=hotclip
           path: profile/hotclip-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -114,7 +114,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=timer_sh
+          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=3&repo=timer_sh
           path: profile/timer_sh-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
