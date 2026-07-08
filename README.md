@@ -30,6 +30,7 @@ Passionate software engineer and tech enthusiast diving deep into the realms of 
 [![live-torrent-backend](./profile/repos/live-torrent-backend-pin.svg)](https://github.com/Davenchy/live-torrent-backend)
 [![media-share](./profile/repos/media-share-pin.svg)](https://github.com/Davenchy/media-share)
 [![clayout](./profile/repos/clayout-pin.svg)](https://github.com/Davenchy/clayout)
+[![lox-ts](./profile/repos/lox-ts-pin.svg)](https://github.com/Davenchy/lox-ts)
 [![brainfuck_compiler.rs](./profile/repos/brainfuck_compiler.rs-pin.svg)](https://github.com/Davenchy/brainfuck_compiler.rs)
 [![qemu-arm-machine](./profile/repos/qemu-arm-machine-pin.svg)](https://github.com/Davenchy/qemu-arm-machine)
 [![rusty_battleship](./profile/repos/rusty_battleship-pin.svg)](https://github.com/Davenchy/rusty_battleship)
