@@ -22,19 +22,21 @@ Passionate software engineer and tech enthusiast diving deep into the realms of 
 </div>
 
 ## 🏆 GitHub Trophies
-<img width="100%" align="middle" src="https://github-profile-trophy.vercel.app/?username=Davenchy&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
+<div align="middle">
+  <img alt="GitHub Trophy" src="./profile/trophy.svg" />
+</div>
 
 ## Favorite Projects
-[![](./profile/live-torrent-backend-pin.svg)](https://github.com/Davenchy/live-torrent-backend)
-[![](./profile/media-share-pin.svg)](https://github.com/Davenchy/media-share)
-[![](./profile/clayout-pin.svg)](https://github.com/Davenchy/clayout)
-[![](./profile/brainfuck_compiler.rs-pin.svg)](https://github.com/Davenchy/brainfuck_compiler.rs)
-[![](./profile/qemu-arm-machine-pin.svg)](https://github.com/Davenchy/qemu-arm-machine)
-[![](./profile/rusty_battleship-pin.svg)](https://github.com/Davenchy/rusty_battleship)
-[![](./profile/service_generator-pin.svg)](https://github.com/Davenchy/service_generator)
-[![](./profile/pc-remote-pin.svg)](https://github.com/Davenchy/pc-remote)
-[![](./profile/hotclip-pin.svg)](https://github.com/Davenchy/hotclip)
-[![](./profile/timer_sh-pin.svg)](https://github.com/Davenchy/timer_sh)
+[![live-torrent-backend](./profile/live-torrent-backend-pin.svg)](https://github.com/Davenchy/live-torrent-backend)
+[![media-share](./profile/media-share-pin.svg)](https://github.com/Davenchy/media-share)
+[![clayout](./profile/clayout-pin.svg)](https://github.com/Davenchy/clayout)
+[![brainfuck_compiler.rs](./profile/brainfuck_compiler.rs-pin.svg)](https://github.com/Davenchy/brainfuck_compiler.rs)
+[![qemu-arm-machine](./profile/qemu-arm-machine-pin.svg)](https://github.com/Davenchy/qemu-arm-machine)
+[![rusty_battleship](./profile/rusty_battleship-pin.svg)](https://github.com/Davenchy/rusty_battleship)
+[![service_generator](./profile/service_generator-pin.svg)](https://github.com/Davenchy/service_generator)
+[![pc-remote](./profile/pc-remote-pin.svg)](https://github.com/Davenchy/pc-remote)
+[![hotclip](./profile/hotclip-pin.svg)](https://github.com/Davenchy/hotclip)
+[![timer_sh](./profile/timer_sh-pin.svg)](https://github.com/Davenchy/timer_sh)
 
 ## 📊 GitHub Stats:
 
