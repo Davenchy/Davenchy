@@ -35,12 +35,13 @@ Passionate software engineer and tech enthusiast diving deep into the realms of 
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=pc-remote)](https://github.com/Davenchy/pc-remote)
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=hotclip)](https://github.com/Davenchy/hotclip)
 [![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=timer_sh)](https://github.com/Davenchy/timer_sh)
+[![](./profile/clayout-pin.svg)](https://github.com/Davenchy/clayout)
 
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img height="150" src="https://github-stats-extended.vercel.app/api?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Davenchy&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub streak" /><br/>
-  <img width="400" src="https://github-stats-extended.vercel.app/api/wakatime?username=Davenchy&theme=radical&hide_border=true&show_icons=true&bg_color=00000000&layout=compact&langs_count=10" alt="Wakatime stats" /><br/>
-  <img width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top languages" />
+  <img height="150" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="150" src="./profile/streak.svg" alt="GitHub streak" /><br/>
+  <img width="400" src="./profile/wakatime.svg" alt="Wakatime stats" /><br/>
+  <img width="400" src="./profile/top-langs.svg" alt="Top languages" />
 </div>
