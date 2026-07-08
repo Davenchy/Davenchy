@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="140"
-        viewBox="0 0 400 140"
+        height="150"
+        viewBox="0 0 400 150"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -101,7 +101,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Davenchy/brainfuck_compiler.rs</text>
+      >Davenchy/lox-ts</text>
     </g>
       </g>
     
@@ -114,19 +114,19 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">A Brainfuck compiler written in Rust that translates code into</tspan><tspan dy="1.2em" x="25">x86 assembly (NASM syntax).</tspan>
+      <tspan dy="1.2em" x="25">Toy Lox language interpreter from Crafting Interpreters,</tspan><tspan dy="1.2em" x="25">implemented in TypeScript/Bun with a custom PEG grammar</tspan><tspan dy="1.2em" x="25">generator and stack-based parser VM.</tspan>
     </text>
 
-    <g transform="translate(30, 65)">
+    <g transform="translate(30, 75)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#dea584" />
-      <text data-testid="lang-name" class="gray" x="15">Rust</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#3178c6" />
+      <text data-testid="lang-name" class="gray" x="15">TypeScript</text>
     </g>
     </g>
     </g>
     
-  <svg x="0" y="0"><g transform="translate(-3, 88)">
+  <svg x="0" y="0"><g transform="translate(-3, 98)">
       
     </g></svg>
     
