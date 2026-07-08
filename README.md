@@ -39,15 +39,8 @@ Passionate software engineer and tech enthusiast diving deep into the realms of 
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub stats" />
-
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Davenchy&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub streak" />
-
-  <br/>
-
-  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Davenchy&theme=radical&hide_border=true&show_icons=true&bg_color=00000000&layout=compact&langs_count=10" alt="Wakatime stats" />
-
-  <br/>
-
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top languages" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Davenchy&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub streak" /><br/>
+  <img width="400" src="https://github-stats-extended.vercel.app/api/wakatime?username=Davenchy&theme=radical&hide_border=true&show_icons=true&bg_color=00000000&layout=compact&langs_count=10" alt="Wakatime stats" /><br/>
+  <img width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top languages" />
 </div>
