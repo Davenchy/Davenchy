@@ -1,8 +1,8 @@
 
     <svg
-      width="360"
+      width="485"
       height="360"
-      viewBox="0 0 360 360"
+      viewBox="0 0 485 360"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
@@ -287,8 +287,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="0"
-          y="125"
+          x="375"
+          y="0"
           width="110"
           height="110"
           viewBox="0 0 110 110"
@@ -397,7 +397,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="125"
+          x="0"
           y="125"
           width="110"
           height="110"
@@ -516,7 +516,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="250"
+          x="125"
           y="125"
           width="110"
           height="110"
@@ -626,8 +626,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="0"
-          y="250"
+          x="250"
+          y="125"
           width="110"
           height="110"
           viewBox="0 0 110 110"
@@ -736,8 +736,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="125"
-          y="250"
+          x="375"
+          y="125"
           width="110"
           height="110"
           viewBox="0 0 110 110"
@@ -846,7 +846,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="250"
+          x="0"
           y="250"
           width="110"
           height="110"
@@ -926,8 +926,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="0"
-          y="375"
+          x="125"
+          y="250"
           width="110"
           height="110"
           viewBox="0 0 110 110"
