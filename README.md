@@ -6,10 +6,13 @@ Passionate software engineer and tech enthusiast diving deep into the realms of 
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/fadi-asaad" target="_blank" rel="noreferrer">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" />
-</a>
+<div>
+  <h3>Connect with me:&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/fadi-asaad" target="_blank" rel="noreferrer">
+      <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" />
+    </a>
+  </h3>
+</div>
 
 <h3 align="left">Languages and Tools: I use Arch BTW 😜</h3>
 <div align="center">
