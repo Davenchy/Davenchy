@@ -20,15 +20,30 @@ jobs:
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
-          card: stats
+          card: top-langs
           options: theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card
+      - name: Generate wakatime card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: wakatime
+          options: theme=radical&hide_border=true&show_icons=true&bg_color=00000000&layout=compact&langs_count=10
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak stats card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=radical&disable_animations=true&hide_border=true&background=00000000&mode=weekly
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card for the CLayout repo
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=clayout
+          path: profile/clayout-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
