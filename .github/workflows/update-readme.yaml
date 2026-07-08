@@ -4,9 +4,11 @@ on:
   schedule:
     - cron: '0 0 * * *'
 jobs:
-  stats:
+  generate:
     runs-on: ubuntu-latest
     permissions: write-all
+    env:
+      PIN_OPS: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=3
     steps:
       - uses: actions/checkout@v6
       
@@ -47,90 +49,112 @@ jobs:
 
       - name: Generate pin card for live-torrent-backend repo
         uses: stats-organization/github-readme-stats-action@v2
+        env:
+          REPO: live-torrent-backend
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=2&repo=live-torrent-backend
-          path: profile/repos/live-torrent-backend-pin.svg
+          options: ${{ env.PIN_OPS }}&repo=${{ env.REPO }}
+          path: profile/repos/${{ env.REPO }}-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for media-share repo
         uses: stats-organization/github-readme-stats-action@v2
+        env:
+          REPO: media-share
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=2&repo=media-share
-          path: profile/repos/media-share-pin.svg
+          options: ${{ env.PIN_OPS }}&repo=${{ env.REPO }}
+          path: profile/repos/${{ env.REPO }}-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for clayout repo
         uses: stats-organization/github-readme-stats-action@v2
+        env:
+          REPO: clayout
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=2&repo=clayout
-          path: profile/repos/clayout-pin.svg
+          options: ${{ env.PIN_OPS }}&repo=${{ env.REPO }}
+          path: profile/repos/${{ env.REPO }}-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for brainfuck_compiler.rs repo
         uses: stats-organization/github-readme-stats-action@v2
+        env:
+          REPO: brainfuck_compiler.rs
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=2&repo=brainfuck_compiler.rs
-          path: profile/repos/brainfuck_compiler.rs-pin.svg
+          options: ${{ env.PIN_OPS }}&repo=${{ env.REPO }}
+          path: profile/repos/${{ env.REPO }}-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for qemu-arm-machine repo
         uses: stats-organization/github-readme-stats-action@v2
+        env:
+          REPO: qemu-arm-machine
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=2&repo=qemu-arm-machine
-          path: profile/repos/qemu-arm-machine-pin.svg
+          options: ${{ env.PIN_OPS }}&repo=${{ env.REPO }}
+          path: profile/repos/${{ env.REPO }}-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for rusty_battleship repo
         uses: stats-organization/github-readme-stats-action@v2
+        env:
+          REPO: rusty_battleship
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=2&repo=rusty_battleship
-          path: profile/repos/rusty_battleship-pin.svg
+          options: ${{ env.PIN_OPS }}&repo=${{ env.REPO }}
+          path: profile/repos/${{ env.REPO }}-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for service_generator repo
         uses: stats-organization/github-readme-stats-action@v2
+        env:
+          REPO: service_generator
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=1&repo=service_generator
-          path: profile/repos/service_generator-pin.svg
+          options: ${{ env.PIN_OPS }}&repo=${{ env.REPO }}
+          path: profile/repos/${{ env.REPO }}-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for pc-remote repo
         uses: stats-organization/github-readme-stats-action@v2
+        env:
+          REPO: pc-remote
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=1&repo=pc-remote
-          path: profile/repos/pc-remote-pin.svg
+          options: ${{ env.PIN_OPS }}&repo=${{ env.REPO }}
+          path: profile/repos/${{ env.REPO }}-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for hotclip repo
         uses: stats-organization/github-readme-stats-action@v2
+        env:
+          REPO: hotclip
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=3&repo=hotclip
-          path: profile/repos/hotclip-pin.svg
+          options: ${{ env.PIN_OPS }}&repo=${{ env.REPO }}
+          path: profile/repos/${{ env.REPO }}-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for timer_sh repo
         uses: stats-organization/github-readme-stats-action@v2
+        env:
+          REPO: timer_sh
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=3&repo=timer_sh
-          path: profile/repos/timer_sh-pin.svg
+          options: ${{ env.PIN_OPS }}&repo=${{ env.REPO }}
+          path: profile/repos/${{ env.REPO }}-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for lox-ts repo
         uses: stats-organization/github-readme-stats-action@v2
+        env:
+          REPO: lox-ts
         with:
           card: pin
-          options: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=3&repo=lox-ts
-          path: profile/repos/lox-ts-pin.svg
+          options: ${{ env.PIN_OPS }}&repo=${{ env.REPO }}
+          path: profile/repos/${{ env.REPO }}-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
