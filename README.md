@@ -25,22 +25,22 @@ Passionate software engineer and tech enthusiast diving deep into the realms of 
 <img width="100%" align="middle" src="https://github-profile-trophy.vercel.app/?username=Davenchy&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
 
 ## Favorite Projects
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=live-torrent-backend)](https://github.com/Davenchy/live-torrent-backend)
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=media-share)](https://github.com/Davenchy/media-share)
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=clayout)](https://github.com/Davenchy/clayout)
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=brainfuck_compiler.rs)](https://github.com/Davenchy/brainfuck_compiler.rs)
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=qemu-arm-machine)](https://github.com/Davenchy/qemu-arm-machine)
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=rusty_battleship)](https://github.com/Davenchy/rusty_battleship)
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=service_generator)](https://github.com/Davenchy/service_generator)
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=pc-remote)](https://github.com/Davenchy/pc-remote)
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=hotclip)](https://github.com/Davenchy/hotclip)
-[![](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&hide_border=true&username=Davenchy&repo=timer_sh)](https://github.com/Davenchy/timer_sh)
+[![](./profile/live-torrent-backend-pin.svg)](https://github.com/Davenchy/live-torrent-backend)
+[![](./profile/media-share-pin.svg)](https://github.com/Davenchy/media-share)
+[![](./profile/clayout-pin.svg)](https://github.com/Davenchy/clayout)
+[![](./profile/brainfuck_compiler.rs-pin.svg)](https://github.com/Davenchy/brainfuck_compiler.rs)
+[![](./profile/qemu-arm-machine-pin.svg)](https://github.com/Davenchy/qemu-arm-machine)
+[![](./profile/rusty_battleship-pin.svg)](https://github.com/Davenchy/rusty_battleship)
+[![](./profile/service_generator-pin.svg)](https://github.com/Davenchy/service_generator)
+[![](./profile/pc-remote-pin.svg)](https://github.com/Davenchy/pc-remote)
+[![](./profile/hotclip-pin.svg)](https://github.com/Davenchy/hotclip)
+[![](./profile/timer_sh-pin.svg)](https://github.com/Davenchy/timer_sh)
 
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img height="150" src="https://github-stats-extended.vercel.app/api?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Davenchy&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub streak" /><br/>
-  <img width="400" src="https://github-stats-extended.vercel.app/api/wakatime?username=Davenchy&theme=radical&hide_border=true&show_icons=true&bg_color=00000000&layout=compact&langs_count=10" alt="Wakatime stats" /><br/>
-  <img width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Davenchy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top languages" />
+  <img height="150" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="150" src="./profile/streak.svg" alt="GitHub streak" /><br/>
+  <img width="400" src="./profile/wakatime.svg" alt="Wakatime stats" /><br/>
+  <img width="400" src="./profile/top-langs.svg" alt="Top languages" />
 </div>
