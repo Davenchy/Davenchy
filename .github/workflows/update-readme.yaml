@@ -10,7 +10,7 @@ jobs:
     env:
       PIN_OPS: show_owner=true&theme=radical&hide_border=true&username=Davenchy&description_lines_count=3
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
