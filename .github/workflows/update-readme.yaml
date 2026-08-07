@@ -157,6 +157,16 @@ jobs:
           path: profile/repos/${{ env.REPO }}-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate pin card for sdl-doom-fire-c repo
+        uses: stats-organization/github-readme-stats-action@v2
+        env:
+          REPO: sdl-doom-fire-c
+        with:
+          card: pin
+          options: ${{ env.PIN_OPS }}&repo=${{ env.REPO }}
+          path: profile/repos/${{ env.REPO }}-pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
