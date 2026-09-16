@@ -47,6 +47,16 @@ jobs:
           path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate pin card for embedded_bare_metal_avr_counter repo
+        uses: stats-organization/github-readme-stats-action@v2
+        env:
+          REPO: embedded_bare_metal_avr_counter
+        with:
+          card: pin
+          options: ${{ env.PIN_OPS }}&repo=${{ env.REPO }}
+          path: profile/repos/${{ env.REPO }}-pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate pin card for live-torrent-backend repo
         uses: stats-organization/github-readme-stats-action@v2
         env:
