@@ -39,6 +39,7 @@ Passionate software engineer and tech enthusiast diving deep into the realms of 
 [![pc-remote](./profile/repos/pc-remote-pin.svg)](https://github.com/Davenchy/pc-remote)
 [![hotclip](./profile/repos/hotclip-pin.svg)](https://github.com/Davenchy/hotclip)
 [![timer_sh](./profile/repos/timer_sh-pin.svg)](https://github.com/Davenchy/timer_sh)
+[![rclone-gdrive-mount-tool](./profile/repos/rclone-gdrive-mount-tool-pin.svg)](https://github.com/Davenchy/rclone-gdrive-mount-tool)
 [![sdl-doom-fire-c](./profile/repos/sdl-doom-fire-c-pin.svg)](https://github.com/Davenchy/sdl-doom-fire-c)
 
 ## 📊 GitHub Stats:
