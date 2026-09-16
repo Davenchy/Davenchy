@@ -27,6 +27,7 @@ Passionate software engineer and tech enthusiast diving deep into the realms of 
 </div>
 
 ## Favorite Projects
+[![embedded_bare_metal_avr_counter](./profile/repos/embedded_bare_metal_avr_counter-pin.svg)](https://github.com/Davenchy/embedded_bare_metal_avr_counter)
 [![live-torrent-backend](./profile/repos/live-torrent-backend-pin.svg)](https://github.com/Davenchy/live-torrent-backend)
 [![media-share](./profile/repos/media-share-pin.svg)](https://github.com/Davenchy/media-share)
 [![clayout](./profile/repos/clayout-pin.svg)](https://github.com/Davenchy/clayout)
